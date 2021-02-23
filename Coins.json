@@ -1,0 +1,902 @@
+[
+ {
+  "name": "Bitcoin",
+  "value": "$48,717",
+  "Percent1h": "1.3%",
+  "Percent24h": "-10.1%",
+  "Percent7d": "1.7%",
+  "MarketCap": "$900,232,768,462",
+  "Volume": "$116,941,579,755"
+ },
+ {
+  "name": "Ethereum",
+  "value": "$1,571.68",
+  "Percent1h": "2.0%",
+  "Percent24h": "-11.8%",
+  "Percent7d": "-11.5%",
+  "MarketCap": "$178,528,085,372",
+  "Volume": "$63,197,812,528"
+ },
+ {
+  "name": "Tether",
+  "value": "$0.997318",
+  "Percent1h": "-0.6%",
+  "Percent24h": "-0.7%",
+  "Percent7d": "-0.3%",
+  "MarketCap": "$34,673,859,046",
+  "Volume": "$191,159,133,771"
+ },
+ {
+  "name": "Binance Coin",
+  "value": "$222.87",
+  "Percent1h": "1.7%",
+  "Percent24h": "-17.0%",
+  "Percent7d": "72.3%",
+  "MarketCap": "$34,044,116,917",
+  "Volume": "$11,107,416,973"
+ },
+ {
+  "name": "Polkadot",
+  "value": "$33.17",
+  "Percent1h": "0.7%",
+  "Percent24h": "-10.6%",
+  "Percent7d": "19.8%",
+  "MarketCap": "$31,701,721,747",
+  "Volume": "$6,010,881,990"
+ },
+ {
+  "name": "Cardano",
+  "value": "$0.939999",
+  "Percent1h": "0.2%",
+  "Percent24h": "-13.7%",
+  "Percent7d": "9.3%",
+  "MarketCap": "$29,800,952,764",
+  "Volume": "$10,342,567,874"
+ },
+ {
+  "name": "XRP",
+  "value": "$0.467532",
+  "Percent1h": "-0.7%",
+  "Percent24h": "-18.5%",
+  "Percent7d": "-14.7%",
+  "MarketCap": "$21,214,464,087",
+  "Volume": "$12,581,483,173"
+ },
+ {
+  "name": "Litecoin",
+  "value": "$175.47",
+  "Percent1h": "1.1%",
+  "Percent24h": "-14.9%",
+  "Percent7d": "-15.4%",
+  "MarketCap": "$11,574,081,050",
+  "Volume": "$11,881,634,453"
+ },
+ {
+  "name": "Chainlink",
+  "value": "$25.67",
+  "Percent1h": "1.9%",
+  "Percent24h": "-18.5%",
+  "Percent7d": "-21.1%",
+  "MarketCap": "$10,415,288,552",
+  "Volume": "$4,757,832,523"
+ },
+ {
+  "name": "Bitcoin Cash",
+  "value": "$511.33",
+  "Percent1h": "1.9%",
+  "Percent24h": "-18.3%",
+  "Percent7d": "-27.5%",
+  "MarketCap": "$9,458,360,725",
+  "Volume": "$9,120,911,766"
+ },
+ {
+  "name": "Stellar",
+  "value": "$0.382629",
+  "Percent1h": "1.0%",
+  "Percent24h": "-17.9%",
+  "Percent7d": "-22.1%",
+  "MarketCap": "$8,496,717,857",
+  "Volume": "$2,798,356,196"
+ },
+ {
+  "name": "USD Coin",
+  "value": "$1.01",
+  "Percent1h": "0.3%",
+  "Percent24h": "0.5%",
+  "Percent7d": "0.8%",
+  "MarketCap": "$8,143,491,112",
+  "Volume": "$4,736,593,829"
+ },
+ {
+  "name": "Uniswap",
+  "value": "$24.11",
+  "Percent1h": "3.1%",
+  "Percent24h": "-12.1%",
+  "Percent7d": "20.7%",
+  "MarketCap": "$7,170,241,704",
+  "Volume": "$3,125,756,706"
+ },
+ {
+  "name": "Dogecoin",
+  "value": "$0.04698770",
+  "Percent1h": "0.0%",
+  "Percent24h": "-12.4%",
+  "Percent7d": "-17.4%",
+  "MarketCap": "$6,070,414,488",
+  "Volume": "$2,355,077,999"
+ },
+ {
+  "name": "Wrapped Bitcoin",
+  "value": "$48,708",
+  "Percent1h": "1.0%",
+  "Percent24h": "-10.2%",
+  "Percent7d": "1.9%",
+  "MarketCap": "$5,947,709,200",
+  "Volume": "$683,981,382"
+ },
+ {
+  "name": "Cosmos",
+  "value": "$19.74",
+  "Percent1h": "-0.7%",
+  "Percent24h": "-4.6%",
+  "Percent7d": "-11.8%",
+  "MarketCap": "$4,681,257,010",
+  "Volume": "$2,342,937,053"
+ },
+ {
+  "name": "NEM",
+  "value": "$0.517482",
+  "Percent1h": "0.7%",
+  "Percent24h": "-27.1%",
+  "Percent7d": "35.8%",
+  "MarketCap": "$4,627,263,142",
+  "Volume": "$2,245,930,667"
+ },
+ {
+  "name": "OKB",
+  "value": "$16.52",
+  "Percent1h": "2.4%",
+  "Percent24h": "-14.9%",
+  "Percent7d": "97.3%",
+  "MarketCap": "$4,443,642,539",
+  "Volume": "$975,906,083"
+ },
+ {
+  "name": "Aave",
+  "value": "$358.14",
+  "Percent1h": "2.9%",
+  "Percent24h": "-11.6%",
+  "Percent7d": "-21.1%",
+  "MarketCap": "$4,403,754,175",
+  "Volume": "$1,670,467,902"
+ },
+ {
+  "name": "Solana",
+  "value": "$14.82",
+  "Percent1h": "0.3%",
+  "Percent24h": "9.4%",
+  "Percent7d": "67.5%",
+  "MarketCap": "$3,891,770,944",
+  "Volume": "$1,251,391,478"
+ },
+ {
+  "name": "Monero",
+  "value": "$217.66",
+  "Percent1h": "3.6%",
+  "Percent24h": "-3.2%",
+  "Percent7d": "-4.3%",
+  "MarketCap": "$3,864,853,679",
+  "Volume": "$1,237,193,726"
+ },
+ {
+  "name": "Crypto.com Coin",
+  "value": "$0.156041",
+  "Percent1h": "1.3%",
+  "Percent24h": "-29.6%",
+  "Percent7d": "81.5%",
+  "MarketCap": "$3,753,836,839",
+  "Volume": "$760,279,607"
+ },
+ {
+  "name": "EOS",
+  "value": "$3.80",
+  "Percent1h": "1.4%",
+  "Percent24h": "-19.5%",
+  "Percent7d": "-19.0%",
+  "MarketCap": "$3,587,855,792",
+  "Volume": "$6,664,568,411"
+ },
+ {
+  "name": "Bitcoin SV",
+  "value": "$186.36",
+  "Percent1h": "1.1%",
+  "Percent24h": "-13.4%",
+  "Percent7d": "-21.3%",
+  "MarketCap": "$3,454,106,788",
+  "Volume": "$1,807,963,475"
+ },
+ {
+  "name": "Huobi Token",
+  "value": "$18.35",
+  "Percent1h": "2.9%",
+  "Percent24h": "-16.6%",
+  "Percent7d": "51.1%",
+  "MarketCap": "$3,417,633,956",
+  "Volume": "$2,117,729,016"
+ },
+ {
+  "name": "TRON",
+  "value": "$0.04471922",
+  "Percent1h": "1.7%",
+  "Percent24h": "-17.5%",
+  "Percent7d": "-11.5%",
+  "MarketCap": "$3,177,260,972",
+  "Volume": "$3,113,044,905"
+ },
+ {
+  "name": "Theta Network",
+  "value": "$3.03",
+  "Percent1h": "2.0%",
+  "Percent24h": "-9.8%",
+  "Percent7d": "-10.6%",
+  "MarketCap": "$2,979,073,007",
+  "Volume": "$346,580,053"
+ },
+ {
+  "name": "IOTA",
+  "value": "$1.07",
+  "Percent1h": "0.4%",
+  "Percent24h": "-17.3%",
+  "Percent7d": "-15.0%",
+  "MarketCap": "$2,958,133,346",
+  "Volume": "$339,279,022"
+ },
+ {
+  "name": "Terra",
+  "value": "$6.59",
+  "Percent1h": "1.7%",
+  "Percent24h": "-5.1%",
+  "Percent7d": "21.3%",
+  "MarketCap": "$2,778,139,938",
+  "Volume": "$716,132,592"
+ },
+ {
+  "name": "NEO",
+  "value": "$38.09",
+  "Percent1h": "1.3%",
+  "Percent24h": "-18.8%",
+  "Percent7d": "-7.8%",
+  "MarketCap": "$2,661,355,286",
+  "Volume": "$2,030,371,176"
+ },
+ {
+  "name": "VeChain",
+  "value": "$0.04130450",
+  "Percent1h": "2.8%",
+  "Percent24h": "-17.4%",
+  "Percent7d": "-18.6%",
+  "MarketCap": "$2,657,385,062",
+  "Volume": "$992,579,257"
+ },
+ {
+  "name": "Tezos",
+  "value": "$3.53",
+  "Percent1h": "1.6%",
+  "Percent24h": "-18.2%",
+  "Percent7d": "-21.9%",
+  "MarketCap": "$2,654,781,113",
+  "Volume": "$756,510,352"
+ },
+ {
+  "name": "Synthetix Network Token",
+  "value": "$18.02",
+  "Percent1h": "3.2%",
+  "Percent24h": "-13.8%",
+  "Percent7d": "-26.4%",
+  "MarketCap": "$2,584,403,215",
+  "Volume": "$544,844,791"
+ },
+ {
+  "name": "FTX Token",
+  "value": "$27.98",
+  "Percent1h": "1.6%",
+  "Percent24h": "-16.6%",
+  "Percent7d": "38.9%",
+  "MarketCap": "$2,471,875,721",
+  "Volume": "$174,639,013"
+ },
+ {
+  "name": "Dai",
+  "value": "$1.01",
+  "Percent1h": "-0.6%",
+  "Percent24h": "0.1%",
+  "Percent7d": "0.3%",
+  "MarketCap": "$2,298,194,422",
+  "Volume": "$1,727,139,884"
+ },
+ {
+  "name": "Dash",
+  "value": "$225.80",
+  "Percent1h": "1.0%",
+  "Percent24h": "-17.2%",
+  "Percent7d": "-11.9%",
+  "MarketCap": "$2,230,245,695",
+  "Volume": "$2,273,017,716"
+ },
+ {
+  "name": "cDAI",
+  "value": "$0.02132858",
+  "Percent1h": "0.2%",
+  "Percent24h": "0.5%",
+  "Percent7d": "0.8%",
+  "MarketCap": "$2,223,456,066",
+  "Volume": "$148,140,958"
+ },
+ {
+  "name": "Binance USD",
+  "value": "$1.01",
+  "Percent1h": "0.9%",
+  "Percent24h": "0.9%",
+  "Percent7d": "1.2%",
+  "MarketCap": "$2,153,746,729",
+  "Volume": "$9,078,780,738"
+ },
+ {
+  "name": "Kusama",
+  "value": "$239.01",
+  "Percent1h": "2.3%",
+  "Percent24h": "-12.5%",
+  "Percent7d": "26.8%",
+  "MarketCap": "$2,131,349,240",
+  "Volume": "$805,523,378"
+ },
+ {
+  "name": "Avalanche",
+  "value": "$26.51",
+  "Percent1h": "0.8%",
+  "Percent24h": "-18.2%",
+  "Percent7d": "-30.2%",
+  "MarketCap": "$2,025,704,336",
+  "Volume": "$395,525,873"
+ },
+ {
+  "name": "The Graph",
+  "value": "$1.67",
+  "Percent1h": "2.5%",
+  "Percent24h": "-17.8%",
+  "Percent7d": "-21.6%",
+  "MarketCap": "$2,012,869,055",
+  "Volume": "$1,225,609,412"
+ },
+ {
+  "name": "Maker",
+  "value": "$2,222.76",
+  "Percent1h": "4.1%",
+  "Percent24h": "-6.4%",
+  "Percent7d": "-9.9%",
+  "MarketCap": "$1,987,339,383",
+  "Volume": "$296,355,008"
+ },
+ {
+  "name": "Celsius Network",
+  "value": "$5.13",
+  "Percent1h": "1.2%",
+  "Percent24h": "-6.9%",
+  "Percent7d": "-7.4%",
+  "MarketCap": "$1,957,415,865",
+  "Volume": "$17,326,100"
+ },
+ {
+  "name": "cETH",
+  "value": "$31.40",
+  "Percent1h": "1.2%",
+  "Percent24h": "-12.2%",
+  "Percent7d": "-11.7%",
+  "MarketCap": "$1,940,974,086",
+  "Volume": "$63,315,500"
+ },
+ {
+  "name": "LEO Token",
+  "value": "$1.97",
+  "Percent1h": "0.4%",
+  "Percent24h": "6.7%",
+  "Percent7d": "33.7%",
+  "MarketCap": "$1,887,505,578",
+  "Volume": "$22,983,973"
+ },
+ {
+  "name": "Filecoin",
+  "value": "$34.78",
+  "Percent1h": "0.9%",
+  "Percent24h": "-11.9%",
+  "Percent7d": "-18.8%",
+  "MarketCap": "$1,879,221,324",
+  "Volume": "$673,919,625"
+ },
+ {
+  "name": "Sushi",
+  "value": "$14.68",
+  "Percent1h": "1.3%",
+  "Percent24h": "-11.7%",
+  "Percent7d": "-14.6%",
+  "MarketCap": "$1,852,457,710",
+  "Volume": "$1,370,245,962"
+ },
+ {
+  "name": "Elrond",
+  "value": "$107.98",
+  "Percent1h": "2.0%",
+  "Percent24h": "-14.9%",
+  "Percent7d": "-22.8%",
+  "MarketCap": "$1,844,212,765",
+  "Volume": "$400,356,368"
+ },
+ {
+  "name": "cUSDC",
+  "value": "$0.02184209",
+  "Percent1h": "0.2%",
+  "Percent24h": "0.3%",
+  "Percent7d": "0.9%",
+  "MarketCap": "$1,781,278,670",
+  "Volume": "$74,289,715"
+ },
+ {
+  "name": "Decred",
+  "value": "$137.81",
+  "Percent1h": "-0.8%",
+  "Percent24h": "-11.9%",
+  "Percent7d": "19.3%",
+  "MarketCap": "$1,739,496,256",
+  "Volume": "$68,211,447"
+ },
+ {
+  "name": "Compound",
+  "value": "$380.98",
+  "Percent1h": "2.3%",
+  "Percent24h": "-10.2%",
+  "Percent7d": "-17.0%",
+  "MarketCap": "$1,634,525,582",
+  "Volume": "$264,471,000"
+ },
+ {
+  "name": "Ravencoin",
+  "value": "$0.178377",
+  "Percent1h": "0.1%",
+  "Percent24h": "-11.2%",
+  "Percent7d": "138.4%",
+  "MarketCap": "$1,453,786,167",
+  "Volume": "$850,321,147"
+ },
+ {
+  "name": "PancakeSwap",
+  "value": "$12.10",
+  "Percent1h": "1.6%",
+  "Percent24h": "-19.7%",
+  "Percent7d": "83.0%",
+  "MarketCap": "$1,448,099,818",
+  "Volume": "$522,640,714"
+ },
+ {
+  "name": "Zcash",
+  "value": "$124.89",
+  "Percent1h": "1.9%",
+  "Percent24h": "-13.6%",
+  "Percent7d": "-20.9%",
+  "MarketCap": "$1,335,903,365",
+  "Volume": "$2,194,964,829"
+ },
+ {
+  "name": "Voyager Token",
+  "value": "$5.83",
+  "Percent1h": "1.7%",
+  "Percent24h": "-6.7%",
+  "Percent7d": "65.5%",
+  "MarketCap": "$1,288,615,944",
+  "Volume": "$46,717,773"
+ },
+ {
+  "name": "Ethereum Classic",
+  "value": "$11.16",
+  "Percent1h": "2.4%",
+  "Percent24h": "-20.4%",
+  "Percent7d": "-23.4%",
+  "MarketCap": "$1,282,574,099",
+  "Volume": "$2,633,747,916"
+ },
+ {
+  "name": "Zilliqa",
+  "value": "$0.104019",
+  "Percent1h": "4.2%",
+  "Percent24h": "-15.8%",
+  "Percent7d": "-20.9%",
+  "MarketCap": "$1,205,855,861",
+  "Volume": "$416,154,319"
+ },
+ {
+  "name": "UMA",
+  "value": "$21.72",
+  "Percent1h": "3.3%",
+  "Percent24h": "-10.4%",
+  "Percent7d": "-16.7%",
+  "MarketCap": "$1,201,824,602",
+  "Volume": "$154,988,335"
+ },
+ {
+  "name": "Fantom",
+  "value": "$0.458921",
+  "Percent1h": "-0.7%",
+  "Percent24h": "0.1%",
+  "Percent7d": "163.8%",
+  "MarketCap": "$1,161,375,756",
+  "Volume": "$1,016,807,830"
+ },
+ {
+  "name": "0x",
+  "value": "$1.54",
+  "Percent1h": "4.6%",
+  "Percent24h": "0.7%",
+  "Percent7d": "-4.2%",
+  "MarketCap": "$1,130,163,178",
+  "Volume": "$977,145,137"
+ },
+ {
+  "name": "yearn.finance",
+  "value": "$32,664",
+  "Percent1h": "2.1%",
+  "Percent24h": "-17.6%",
+  "Percent7d": "-18.9%",
+  "MarketCap": "$1,129,841,216",
+  "Volume": "$939,637,974"
+ },
+ {
+  "name": "NEXO",
+  "value": "$1.99",
+  "Percent1h": "-2.4%",
+  "Percent24h": "-13.6%",
+  "Percent7d": "18.7%",
+  "MarketCap": "$1,107,236,156",
+  "Volume": "$16,638,653"
+ },
+ {
+  "name": "THORChain",
+  "value": "$4.69",
+  "Percent1h": "4.5%",
+  "Percent24h": "3.6%",
+  "Percent7d": "20.8%",
+  "MarketCap": "$1,078,180,842",
+  "Volume": "$162,958,360"
+ },
+ {
+  "name": "Huobi BTC",
+  "value": "$48,359",
+  "Percent1h": "0.8%",
+  "Percent24h": "-11.0%",
+  "Percent7d": "1.0%",
+  "MarketCap": "$1,054,605,421",
+  "Volume": "$361,193"
+ },
+ {
+  "name": "IOST",
+  "value": "$0.05627642",
+  "Percent1h": "10.6%",
+  "Percent24h": "-5.5%",
+  "Percent7d": "84.7%",
+  "MarketCap": "$1,025,818,549",
+  "Volume": "$2,188,592,153"
+ },
+ {
+  "name": "Mdex",
+  "value": "$8.18",
+  "Percent1h": "3.2%",
+  "Percent24h": "-13.2%",
+  "Percent7d": "168.0%",
+  "MarketCap": "$1,019,489,223",
+  "Volume": "$342,716,100"
+ },
+ {
+  "name": "REN",
+  "value": "$1.10",
+  "Percent1h": "3.4%",
+  "Percent24h": "-19.6%",
+  "Percent7d": "22.4%",
+  "MarketCap": "$961,294,987",
+  "Volume": "$465,323,707"
+ },
+ {
+  "name": "Near",
+  "value": "$3.19",
+  "Percent1h": "2.0%",
+  "Percent24h": "-12.3%",
+  "Percent7d": "-19.6%",
+  "MarketCap": "$927,500,906",
+  "Volume": "$162,289,759"
+ },
+ {
+  "name": "Waves",
+  "value": "$9.21",
+  "Percent1h": "1.0%",
+  "Percent24h": "-13.8%",
+  "Percent7d": "-15.2%",
+  "MarketCap": "$912,983,390",
+  "Volume": "$184,617,293"
+ },
+ {
+  "name": "xSUSHI",
+  "value": "$16.24",
+  "Percent1h": "-0.0%",
+  "Percent24h": "-12.9%",
+  "Percent7d": "-17.3%",
+  "MarketCap": "$909,269,096",
+  "Volume": "$0.00000000"
+ },
+ {
+  "name": "BitTorrent",
+  "value": "$0.00136472",
+  "Percent1h": "1.4%",
+  "Percent24h": "-20.2%",
+  "Percent7d": "23.4%",
+  "MarketCap": "$895,314,048",
+  "Volume": "$696,662,706"
+ },
+ {
+  "name": "SwissBorg",
+  "value": "$0.952677",
+  "Percent1h": "1.0%",
+  "Percent24h": "-10.6%",
+  "Percent7d": "8.1%",
+  "MarketCap": "$885,112,752",
+  "Volume": "$30,092,253"
+ },
+ {
+  "name": "renBTC",
+  "value": "$48,491",
+  "Percent1h": "0.9%",
+  "Percent24h": "-10.9%",
+  "Percent7d": "1.5%",
+  "MarketCap": "$860,256,982",
+  "Volume": "$20,757,962"
+ },
+ {
+  "name": "Hedera Hashgraph",
+  "value": "$0.116169",
+  "Percent1h": "1.2%",
+  "Percent24h": "-15.6%",
+  "Percent7d": "-19.6%",
+  "MarketCap": "$847,822,815",
+  "Volume": "$145,519,826"
+ },
+ {
+  "name": "ICON",
+  "value": "$1.42",
+  "Percent1h": "2.2%",
+  "Percent24h": "-21.6%",
+  "Percent7d": "-19.1%",
+  "MarketCap": "$829,596,661",
+  "Volume": "$335,253,175"
+ },
+ {
+  "name": "Paxos Standard",
+  "value": "$1.01",
+  "Percent1h": "0.1%",
+  "Percent24h": "0.6%",
+  "Percent7d": "0.6%",
+  "MarketCap": "$828,189,362",
+  "Volume": "$148,139,581"
+ },
+ {
+  "name": "Algorand",
+  "value": "$1.01",
+  "Percent1h": "3.5%",
+  "Percent24h": "-12.2%",
+  "Percent7d": "-25.3%",
+  "MarketCap": "$797,990,938",
+  "Volume": "$1,043,136,128"
+ },
+ {
+  "name": "Amp",
+  "value": "$0.02183439",
+  "Percent1h": "0.5%",
+  "Percent24h": "-15.8%",
+  "Percent7d": "-38.9%",
+  "MarketCap": "$789,294,112",
+  "Volume": "$5,597,196"
+ },
+ {
+  "name": "DigiByte",
+  "value": "$0.05538355",
+  "Percent1h": "3.3%",
+  "Percent24h": "-20.3%",
+  "Percent7d": "-29.5%",
+  "MarketCap": "$770,823,699",
+  "Volume": "$97,018,502"
+ },
+ {
+  "name": "Ontology",
+  "value": "$0.959351",
+  "Percent1h": "1.4%",
+  "Percent24h": "-19.7%",
+  "Percent7d": "-16.6%",
+  "MarketCap": "$768,616,727",
+  "Volume": "$967,945,975"
+ },
+ {
+  "name": "Stacks",
+  "value": "$0.839170",
+  "Percent1h": "5.0%",
+  "Percent24h": "10.5%",
+  "Percent7d": "21.4%",
+  "MarketCap": "$759,254,544",
+  "Volume": "$29,860,145"
+ },
+ {
+  "name": "Loopring",
+  "value": "$0.565697",
+  "Percent1h": "3.1%",
+  "Percent24h": "-17.4%",
+  "Percent7d": "-21.2%",
+  "MarketCap": "$697,096,224",
+  "Volume": "$197,100,468"
+ },
+ {
+  "name": "Basic Attention Token",
+  "value": "$0.465469",
+  "Percent1h": "1.0%",
+  "Percent24h": "-12.7%",
+  "Percent7d": "-13.3%",
+  "MarketCap": "$688,580,052",
+  "Volume": "$525,518,591"
+ },
+ {
+  "name": "Nano",
+  "value": "$5.15",
+  "Percent1h": "1.9%",
+  "Percent24h": "-18.1%",
+  "Percent7d": "-19.2%",
+  "MarketCap": "$678,510,168",
+  "Volume": "$143,454,030"
+ },
+ {
+  "name": "ZKSwap",
+  "value": "$8.51",
+  "Percent1h": "6.1%",
+  "Percent24h": "-8.2%",
+  "Percent7d": "254.6%",
+  "MarketCap": "$678,370,961",
+  "Volume": "$112,637,406"
+ },
+ {
+  "name": "Polygon",
+  "value": "$0.133933",
+  "Percent1h": "2.1%",
+  "Percent24h": "-15.3%",
+  "Percent7d": "25.8%",
+  "MarketCap": "$664,358,343",
+  "Volume": "$474,320,444"
+ },
+ {
+  "name": "HUSD",
+  "value": "$1.00",
+  "Percent1h": "0.1%",
+  "Percent24h": "0.1%",
+  "Percent7d": "1.1%",
+  "MarketCap": "$649,374,860",
+  "Volume": "$104,197,329"
+ },
+ {
+  "name": "OMG Network",
+  "value": "$4.60",
+  "Percent1h": "1.9%",
+  "Percent24h": "-17.7%",
+  "Percent7d": "-24.9%",
+  "MarketCap": "$635,879,284",
+  "Volume": "$729,849,602"
+ },
+ {
+  "name": "Bancor Network Token",
+  "value": "$5.40",
+  "Percent1h": "1.7%",
+  "Percent24h": "-15.5%",
+  "Percent7d": "59.3%",
+  "MarketCap": "$603,653,913",
+  "Volume": "$419,209,978"
+ },
+ {
+  "name": "TerraUSD",
+  "value": "$1.01",
+  "Percent1h": "0.8%",
+  "Percent24h": "1.2%",
+  "Percent7d": "2.2%",
+  "MarketCap": "$592,168,684",
+  "Volume": "$135,975,674"
+ },
+ {
+  "name": "Pundi X",
+  "value": "$0.00239092",
+  "Percent1h": "0.7%",
+  "Percent24h": "-18.9%",
+  "Percent7d": "152.7%",
+  "MarketCap": "$561,880,147",
+  "Volume": "$702,834,032"
+ },
+ {
+  "name": "Horizen",
+  "value": "$51.87",
+  "Percent1h": "0.6%",
+  "Percent24h": "-22.4%",
+  "Percent7d": "1.7%",
+  "MarketCap": "$552,452,032",
+  "Volume": "$178,534,805"
+ },
+ {
+  "name": "Holo",
+  "value": "$0.00296215",
+  "Percent1h": "0.1%",
+  "Percent24h": "-14.8%",
+  "Percent7d": "129.4%",
+  "MarketCap": "$525,648,773",
+  "Volume": "$255,134,320"
+ },
+ {
+  "name": "Venus",
+  "value": "$59.97",
+  "Percent1h": "0.6%",
+  "Percent24h": "-20.2%",
+  "Percent7d": "33.3%",
+  "MarketCap": "$513,217,771",
+  "Volume": "$303,899,454"
+ },
+ {
+  "name": "Qtum",
+  "value": "$5.00",
+  "Percent1h": "0.5%",
+  "Percent24h": "-21.7%",
+  "Percent7d": "-21.6%",
+  "MarketCap": "$510,525,609",
+  "Volume": "$945,758,149"
+ },
+ {
+  "name": "",
+  "value": "$21.23",
+  "Percent1h": "2.4%",
+  "Percent24h": "-4.0%",
+  "Percent7d": "11.6%",
+  "MarketCap": "$492,805,100",
+  "Volume": "$92,030,993"
+ },
+ {
+  "name": "Curve DAO Token",
+  "value": "$2.10",
+  "Percent1h": "2.8%",
+  "Percent24h": "-17.6%",
+  "Percent7d": "-22.5%",
+  "MarketCap": "$479,341,062",
+  "Volume": "$421,251,845"
+ },
+ {
+  "name": "Siacoin",
+  "value": "$0.01021034",
+  "Percent1h": "3.7%",
+  "Percent24h": "-17.6%",
+  "Percent7d": "-13.6%",
+  "MarketCap": "$471,737,473",
+  "Volume": "$83,027,124"
+ },
+ {
+  "name": "Bitcoin Gold",
+  "value": "$26.78",
+  "Percent1h": "1.3%",
+  "Percent24h": "-23.5%",
+  "Percent7d": "-7.4%",
+  "MarketCap": "$467,344,015",
+  "Volume": "$142,241,825"
+ },
+ {
+  "name": "DODO",
+  "value": "$4.72",
+  "Percent1h": "1.8%",
+  "Percent24h": "-18.8%",
+  "Percent7d": "115.7%",
+  "MarketCap": "$456,732,259",
+  "Volume": "$155,924,134"
+ }
+]
