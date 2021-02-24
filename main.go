@@ -8,12 +8,12 @@ import (
 func main() {
 	var options Model.Options
 
-	// u (up) | d (down)
-	options.Direction = "u"
+	// u (up) | d (down) - Ex: If you want all coins that are '> 2%' -> direction:'u', percent = 2
+	options.Direction = "d"
 	// -infinity ~ +infinity
-	options.Percent = 1
+	options.Percent = -10
 	// h | d | 7d
-	options.Time = "h"
+	options.Time = "7d"
 
 	// Collect the coins then create a JSON with them
 	CoinsJSON := Controller.FetchJson()

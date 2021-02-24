@@ -7,41 +7,41 @@
   "Percent7d": "-0.1%",
   "MarketCap": "$916,059,869,354",
   "Volume": "$72,960,539,971",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Ethereum\"",
-  "value": "$1,608.61",
-  "Percent1h": "-0.3%",
-  "Percent24h": "4.1%",
+  "value": "$1,607.32",
+  "Percent1h": "0.2%",
+  "Percent24h": "4.2%",
   "Percent7d": "-9.8%",
   "MarketCap": "$184,532,342,458",
-  "Volume": "$39,689,198,935",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Volume": "$39,856,751,549",
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Binance Coin\"",
-  "value": "$245.64",
-  "Percent1h": "0.1%",
-  "Percent24h": "10.2%",
-  "Percent7d": "89.3%",
+  "value": "$245.36",
+  "Percent1h": "0.3%",
+  "Percent24h": "10.9%",
+  "Percent7d": "89.1%",
   "MarketCap": "$37,916,197,766",
-  "Volume": "$10,008,145,358",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Volume": "$10,000,039,610",
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Tether\"",
-  "value": "$1.01",
+  "value": "$1.00",
   "Percent1h": "0.1%",
-  "Percent24h": "-0.7%",
-  "Percent7d": "0.4%",
+  "Percent24h": "-0.3%",
+  "Percent7d": "0.3%",
   "MarketCap": "$35,026,004,181",
-  "Volume": "$128,982,795,389",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Volume": "$130,432,368,040",
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Cardano\"",
@@ -51,8 +51,8 @@
   "Percent7d": "18.5%",
   "MarketCap": "$33,054,840,473",
   "Volume": "$8,201,635,220",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Polkadot\"",
@@ -62,8 +62,8 @@
   "Percent7d": "10.4%",
   "MarketCap": "$31,661,097,515",
   "Volume": "$3,126,206,022",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"XRP\"",
@@ -73,8 +73,8 @@
   "Percent7d": "-11.1%",
   "MarketCap": "$21,161,818,805",
   "Volume": "$6,655,040,943",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Litecoin\"",
@@ -84,8 +84,8 @@
   "Percent7d": "-15.1%",
   "MarketCap": "$11,855,835,787",
   "Volume": "$8,179,156,413",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Chainlink\"",
@@ -95,8 +95,8 @@
   "Percent7d": "-12.9%",
   "MarketCap": "$11,381,177,876",
   "Volume": "$3,076,822,363",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Bitcoin Cash\"",
@@ -106,8 +106,8 @@
   "Percent7d": "-26.5%",
   "MarketCap": "$9,673,087,177",
   "Volume": "$6,678,643,690",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Stellar\"",
@@ -117,8 +117,8 @@
   "Percent7d": "-18.3%",
   "MarketCap": "$8,921,510,334",
   "Volume": "$1,611,126,444",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"USD Coin\"",
@@ -128,8 +128,8 @@
   "Percent7d": "0.3%",
   "MarketCap": "$8,312,069,440",
   "Volume": "$2,890,976,021",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Uniswap\"",
@@ -139,8 +139,8 @@
   "Percent7d": "21.8%",
   "MarketCap": "$7,377,460,866",
   "Volume": "$1,937,515,171",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Dogecoin\"",
@@ -150,8 +150,8 @@
   "Percent7d": "2.3%",
   "MarketCap": "$7,062,913,342",
   "Volume": "$4,165,690,224",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Wrapped Bitcoin\"",
@@ -161,8 +161,8 @@
   "Percent7d": "-0.4%",
   "MarketCap": "$6,049,203,090",
   "Volume": "$427,364,443",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"OKB\"",
@@ -172,8 +172,8 @@
   "Percent7d": "117.2%",
   "MarketCap": "$4,865,789,248",
   "Volume": "$773,786,659",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Cosmos\"",
@@ -183,8 +183,8 @@
   "Percent7d": "-21.9%",
   "MarketCap": "$4,682,111,443",
   "Volume": "$1,350,680,134",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"NEM\"",
@@ -194,41 +194,41 @@
   "Percent7d": "36.8%",
   "MarketCap": "$4,659,695,536",
   "Volume": "$639,013,179",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Solana\"",
-  "value": "$17.46",
-  "Percent1h": "-0.3%",
-  "Percent24h": "16.5%",
-  "Percent7d": "110.3%",
+  "value": "$17.45",
+  "Percent1h": "-0.4%",
+  "Percent24h": "17.5%",
+  "Percent7d": "110.2%",
   "MarketCap": "$4,604,940,680",
-  "Volume": "$637,294,853",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Volume": "$637,120,171",
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Aave\"",
-  "value": "$363.43",
-  "Percent1h": "-1.2%",
-  "Percent24h": "5.9%",
-  "Percent7d": "-16.0%",
+  "value": "$363.16",
+  "Percent1h": "-0.7%",
+  "Percent24h": "7.5%",
+  "Percent7d": "-16.1%",
   "MarketCap": "$4,463,845,535",
-  "Volume": "$1,249,925,037",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Volume": "$1,254,442,726",
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Crypto.com Coin\"",
-  "value": "$0.159362",
-  "Percent1h": "-0.7%",
-  "Percent24h": "4.0%",
+  "value": "$0.159379",
+  "Percent1h": "-0.5%",
+  "Percent24h": "3.5%",
   "Percent7d": "88.4%",
   "MarketCap": "$3,848,024,080",
-  "Volume": "$539,549,675",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Volume": "$539,393,057",
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"EOS\"",
@@ -238,8 +238,8 @@
   "Percent7d": "-17.6%",
   "MarketCap": "$3,644,411,933",
   "Volume": "$4,080,139,596",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Monero\"",
@@ -249,8 +249,8 @@
   "Percent7d": "-7.6%",
   "MarketCap": "$3,640,575,337",
   "Volume": "$918,263,381",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Bitcoin SV\"",
@@ -260,8 +260,8 @@
   "Percent7d": "-18.2%",
   "MarketCap": "$3,620,666,918",
   "Volume": "$1,331,167,280",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Huobi Token\"",
@@ -271,19 +271,19 @@
   "Percent7d": "59.3%",
   "MarketCap": "$3,589,085,866",
   "Volume": "$1,595,357,244",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"TRON\"",
-  "value": "$0.04723539",
-  "Percent1h": "0.2%",
-  "Percent24h": "7.4%",
-  "Percent7d": "-9.8%",
+  "value": "$0.04707772",
+  "Percent1h": "0.4%",
+  "Percent24h": "7.0%",
+  "Percent7d": "-10.1%",
   "MarketCap": "$3,373,599,783",
-  "Volume": "$2,523,715,994",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Volume": "$2,512,798,472",
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"IOTA\"",
@@ -293,8 +293,8 @@
   "Percent7d": "-4.9%",
   "MarketCap": "$3,305,767,579",
   "Volume": "$277,544,041",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Theta Network\"",
@@ -304,8 +304,19 @@
   "Percent7d": "-4.0%",
   "MarketCap": "$3,272,629,960",
   "Volume": "$277,337,007",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
+ },
+ {
+  "name": "\"Terra\"",
+  "value": "$6.62",
+  "Percent1h": "-1.5%",
+  "Percent24h": "1.5%",
+  "Percent7d": "1.7%",
+  "MarketCap": "$2,826,679,378",
+  "Volume": "$426,757,361",
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"NEO\"",
@@ -315,19 +326,8 @@
   "Percent7d": "-2.5%",
   "MarketCap": "$2,813,875,598",
   "Volume": "$1,550,066,703",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
- },
- {
-  "name": "\"Terra\"",
-  "value": "$6.63",
-  "Percent1h": "-1.8%",
-  "Percent24h": "1.0%",
-  "Percent7d": "1.9%",
-  "MarketCap": "$2,799,407,592",
-  "Volume": "$426,404,572",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Synthetix Network Token\"",
@@ -337,8 +337,8 @@
   "Percent7d": "-21.5%",
   "MarketCap": "$2,778,657,591",
   "Volume": "$332,366,388",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"VeChain\"",
@@ -348,8 +348,8 @@
   "Percent7d": "-14.2%",
   "MarketCap": "$2,748,985,374",
   "Volume": "$623,146,351",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Tezos\"",
@@ -359,8 +359,8 @@
   "Percent7d": "-22.0%",
   "MarketCap": "$2,678,004,689",
   "Volume": "$499,279,702",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"FTX Token\"",
@@ -368,10 +368,10 @@
   "Percent1h": "-0.9%",
   "Percent24h": "7.4%",
   "Percent7d": "41.7%",
-  "MarketCap": "$2,631,878,402",
+  "MarketCap": "$2,611,836,187",
   "Volume": "$99,162,490",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Dash\"",
@@ -381,19 +381,19 @@
   "Percent7d": "-6.3%",
   "MarketCap": "$2,326,275,377",
   "Volume": "$1,951,038,778",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Dai\"",
-  "value": "$1.00",
-  "Percent1h": "0.5%",
-  "Percent24h": "-1.6%",
-  "Percent7d": "0.3%",
-  "MarketCap": "$2,326,154,512",
-  "Volume": "$783,518,241",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "value": "$0.999859",
+  "Percent1h": "-0.1%",
+  "Percent24h": "-1.5%",
+  "Percent7d": "-0.1%",
+  "MarketCap": "$2,315,401,645",
+  "Volume": "$837,899,128",
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"The Graph\"",
@@ -403,8 +403,8 @@
   "Percent7d": "-9.6%",
   "MarketCap": "$2,272,246,824",
   "Volume": "$725,081,836",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Binance USD\"",
@@ -412,10 +412,10 @@
   "Percent1h": "0.7%",
   "Percent24h": "-1.1%",
   "Percent7d": "0.5%",
-  "MarketCap": "$2,271,227,793",
+  "MarketCap": "$2,260,919,269",
   "Volume": "$5,463,018,338",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"cDAI\"",
@@ -423,10 +423,10 @@
   "Percent1h": "0.2%",
   "Percent24h": "-0.1%",
   "Percent7d": "0.6%",
-  "MarketCap": "$2,220,755,893",
+  "MarketCap": "$2,213,101,539",
   "Volume": "$509,055",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Avalanche\"",
@@ -436,8 +436,8 @@
   "Percent7d": "-20.1%",
   "MarketCap": "$2,198,329,213",
   "Volume": "$412,114,196",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Kusama\"",
@@ -445,10 +445,10 @@
   "Percent1h": "-0.4%",
   "Percent24h": "0.9%",
   "Percent7d": "13.4%",
-  "MarketCap": "$2,117,961,782",
+  "MarketCap": "$2,095,205,521",
   "Volume": "$444,640,561",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Maker\"",
@@ -458,8 +458,8 @@
   "Percent7d": "-9.3%",
   "MarketCap": "$2,030,632,652",
   "Volume": "$157,197,098",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"cETH\"",
@@ -467,10 +467,10 @@
   "Percent1h": "0.1%",
   "Percent24h": "4.1%",
   "Percent7d": "-10.1%",
-  "MarketCap": "$2,004,032,353",
+  "MarketCap": "$1,993,907,286",
   "Volume": "$14,919,085",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Filecoin\"",
@@ -480,8 +480,8 @@
   "Percent7d": "-13.3%",
   "MarketCap": "$1,970,192,347",
   "Volume": "$413,242,469",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Elrond\"",
@@ -491,8 +491,8 @@
   "Percent7d": "-17.5%",
   "MarketCap": "$1,933,571,052",
   "Volume": "$221,376,813",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Celsius Network\"",
@@ -502,8 +502,8 @@
   "Percent7d": "-7.9%",
   "MarketCap": "$1,906,533,511",
   "Volume": "$9,706,327",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"LEO Token\"",
@@ -511,10 +511,10 @@
   "Percent1h": "0.1%",
   "Percent24h": "-1.0%",
   "Percent7d": "31.5%",
-  "MarketCap": "$1,881,296,692",
+  "MarketCap": "$1,873,492,527",
   "Volume": "$5,378,682",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Compound\"",
@@ -522,10 +522,10 @@
   "Percent1h": "-0.3%",
   "Percent24h": "17.1%",
   "Percent7d": "-6.8%",
-  "MarketCap": "$1,838,054,307",
+  "MarketCap": "$1,825,331,139",
   "Volume": "$195,108,658",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Decred\"",
@@ -535,8 +535,8 @@
   "Percent7d": "7.1%",
   "MarketCap": "$1,807,623,378",
   "Volume": "$42,349,741",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Sushi\"",
@@ -546,8 +546,8 @@
   "Percent7d": "-12.7%",
   "MarketCap": "$1,798,210,754",
   "Volume": "$798,920,302",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"cUSDC\"",
@@ -555,10 +555,10 @@
   "Percent1h": "0.2%",
   "Percent24h": "-0.1%",
   "Percent7d": "0.6%",
-  "MarketCap": "$1,773,001,100",
+  "MarketCap": "$1,766,744,732",
   "Volume": "$420,996",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"ZKSwap\"",
@@ -568,8 +568,8 @@
   "Percent7d": "276.8%",
   "MarketCap": "$1,667,673,629",
   "Volume": "$156,339,791",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"PancakeSwap\"",
@@ -579,19 +579,19 @@
   "Percent7d": "90.0%",
   "MarketCap": "$1,646,421,709",
   "Volume": "$441,302,735",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Voyager Token\"",
-  "value": "$6.88",
-  "Percent1h": "0.0%",
-  "Percent24h": "22.2%",
-  "Percent7d": "91.6%",
+  "value": "$6.85",
+  "Percent1h": "-0.3%",
+  "Percent24h": "21.9%",
+  "Percent7d": "91.0%",
   "MarketCap": "$1,523,607,069",
-  "Volume": "$33,015,545",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Volume": "$33,006,019",
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Fantom\"",
@@ -601,8 +601,8 @@
   "Percent7d": "244.6%",
   "MarketCap": "$1,506,434,160",
   "Volume": "$836,357,492",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Ravencoin\"",
@@ -612,8 +612,8 @@
   "Percent7d": "130.0%",
   "MarketCap": "$1,483,561,090",
   "Volume": "$474,996,074",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Zcash\"",
@@ -623,8 +623,8 @@
   "Percent7d": "-16.9%",
   "MarketCap": "$1,397,758,449",
   "Volume": "$1,734,050,023",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Ethereum Classic\"",
@@ -634,8 +634,8 @@
   "Percent7d": "-18.6%",
   "MarketCap": "$1,357,322,066",
   "Volume": "$2,103,096,041",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Zilliqa\"",
@@ -645,8 +645,8 @@
   "Percent7d": "-15.0%",
   "MarketCap": "$1,316,045,097",
   "Volume": "$323,261,369",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"UMA\"",
@@ -654,10 +654,10 @@
   "Percent1h": "-2.7%",
   "Percent24h": "3.9%",
   "Percent7d": "-17.9%",
-  "MarketCap": "$1,179,826,342",
+  "MarketCap": "$1,186,278,009",
   "Volume": "$113,434,793",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"yearn.finance\"",
@@ -667,8 +667,8 @@
   "Percent7d": "-21.0%",
   "MarketCap": "$1,172,145,420",
   "Volume": "$588,357,066",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"NEXO\"",
@@ -678,19 +678,19 @@
   "Percent7d": "12.9%",
   "MarketCap": "$1,156,802,891",
   "Volume": "$10,817,261",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"THORChain\"",
-  "value": "$4.86",
-  "Percent1h": "-2.3%",
-  "Percent24h": "11.2%",
-  "Percent7d": "24.1%",
+  "value": "$4.82",
+  "Percent1h": "-2.4%",
+  "Percent24h": "11.0%",
+  "Percent7d": "23.2%",
   "MarketCap": "$1,131,888,390",
-  "Volume": "$172,953,097",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Volume": "$172,672,412",
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"0x\"",
@@ -700,8 +700,8 @@
   "Percent7d": "-6.5%",
   "MarketCap": "$1,110,907,866",
   "Volume": "$429,322,699",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Huobi BTC\"",
@@ -711,8 +711,8 @@
   "Percent7d": "-0.9%",
   "MarketCap": "$1,066,586,815",
   "Volume": "$96,984",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"REN\"",
@@ -722,19 +722,8 @@
   "Percent7d": "6.7%",
   "MarketCap": "$1,002,895,342",
   "Volume": "$337,742,445",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
- },
- {
-  "name": "\"Near\"",
-  "value": "$3.35",
-  "Percent1h": "-0.5%",
-  "Percent24h": "7.8%",
-  "Percent7d": "-17.4%",
-  "MarketCap": "$995,836,610",
-  "Volume": "$74,641,826",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Mdex\"",
@@ -744,19 +733,30 @@
   "Percent7d": "170.3%",
   "MarketCap": "$987,594,202",
   "Volume": "$193,628,498",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
+ },
+ {
+  "name": "\"Near\"",
+  "value": "$3.35",
+  "Percent1h": "-0.5%",
+  "Percent24h": "7.8%",
+  "Percent7d": "-17.4%",
+  "MarketCap": "$983,860,389",
+  "Volume": "$74,641,826",
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Stacks\"",
   "value": "$1.07",
-  "Percent1h": "-4.0%",
-  "Percent24h": "35.3%",
+  "Percent1h": "-2.1%",
+  "Percent24h": "36.2%",
   "Percent7d": "56.9%",
   "MarketCap": "$978,002,051",
-  "Volume": "$116,751,501",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Volume": "$116,868,090",
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Waves\"",
@@ -766,8 +766,8 @@
   "Percent7d": "-12.2%",
   "MarketCap": "$974,474,537",
   "Volume": "$142,874,929",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"ICON\"",
@@ -777,8 +777,8 @@
   "Percent7d": "-4.0%",
   "MarketCap": "$967,435,500",
   "Volume": "$341,409,819",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Amp\"",
@@ -788,8 +788,8 @@
   "Percent7d": "-19.9%",
   "MarketCap": "$962,747,601",
   "Volume": "$5,294,330",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"IOST\"",
@@ -799,8 +799,8 @@
   "Percent7d": "66.1%",
   "MarketCap": "$947,013,141",
   "Volume": "$1,227,097,730",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Hedera Hashgraph\"",
@@ -810,8 +810,8 @@
   "Percent7d": "-6.8%",
   "MarketCap": "$940,663,681",
   "Volume": "$154,574,502",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"BitTorrent\"",
@@ -821,8 +821,8 @@
   "Percent7d": "19.5%",
   "MarketCap": "$932,394,789",
   "Volume": "$552,203,308",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"xSUSHI\"",
@@ -832,8 +832,8 @@
   "Percent7d": "-11.8%",
   "MarketCap": "$921,695,514",
   "Volume": "$0.00000000",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"renBTC\"",
@@ -843,8 +843,8 @@
   "Percent7d": "-0.7%",
   "MarketCap": "$873,739,701",
   "Volume": "$18,754,029",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"SwissBorg\"",
@@ -854,19 +854,19 @@
   "Percent7d": "2.9%",
   "MarketCap": "$871,390,756",
   "Volume": "$12,472,701",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Paxos Standard\"",
   "value": "$1.00",
-  "Percent1h": "0.0%",
-  "Percent24h": "-1.3%",
-  "Percent7d": "0.1%",
+  "Percent1h": "0.5%",
+  "Percent24h": "-0.1%",
+  "Percent7d": "0.2%",
   "MarketCap": "$857,602,224",
-  "Volume": "$117,529,489",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Volume": "$117,534,314",
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Algorand\"",
@@ -876,8 +876,8 @@
   "Percent7d": "-20.0%",
   "MarketCap": "$842,306,627",
   "Volume": "$760,483,865",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"DigiByte\"",
@@ -887,8 +887,8 @@
   "Percent7d": "-20.9%",
   "MarketCap": "$804,374,263",
   "Volume": "$71,880,530",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Ontology\"",
@@ -898,8 +898,8 @@
   "Percent7d": "-12.3%",
   "MarketCap": "$796,292,439",
   "Volume": "$739,732,609",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Polygon\"",
@@ -909,8 +909,8 @@
   "Percent7d": "39.0%",
   "MarketCap": "$751,167,980",
   "Volume": "$390,263,131",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Basic Attention Token\"",
@@ -920,19 +920,19 @@
   "Percent7d": "-10.8%",
   "MarketCap": "$736,348,111",
   "Volume": "$473,472,366",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Nano\"",
   "value": "$5.52",
-  "Percent1h": "-0.9%",
-  "Percent24h": "7.5%",
+  "Percent1h": "-0.8%",
+  "Percent24h": "8.2%",
   "Percent7d": "-14.7%",
   "MarketCap": "$735,127,541",
-  "Volume": "$100,359,431",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Volume": "$100,369,444",
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Loopring\"",
@@ -942,8 +942,8 @@
   "Percent7d": "-17.2%",
   "MarketCap": "$715,626,649",
   "Volume": "$114,215,846",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"HUSD\"",
@@ -951,10 +951,10 @@
   "Percent1h": "0.9%",
   "Percent24h": "-0.1%",
   "Percent7d": "0.7%",
-  "MarketCap": "$680,788,001",
+  "MarketCap": "$678,784,731",
   "Volume": "$270,694,648",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"OMG Network\"",
@@ -964,8 +964,8 @@
   "Percent7d": "-23.4%",
   "MarketCap": "$660,352,353",
   "Volume": "$466,667,258",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Bancor Network Token\"",
@@ -975,8 +975,8 @@
   "Percent7d": "54.4%",
   "MarketCap": "$633,291,091",
   "Volume": "$476,984,957",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"TerraUSD\"",
@@ -986,8 +986,8 @@
   "Percent7d": "0.2%",
   "MarketCap": "$599,041,681",
   "Volume": "$77,732,985",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Pundi X\"",
@@ -997,8 +997,8 @@
   "Percent7d": "155.4%",
   "MarketCap": "$585,643,965",
   "Volume": "$414,853,936",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Venus\"",
@@ -1008,8 +1008,8 @@
   "Percent7d": "44.5%",
   "MarketCap": "$578,036,973",
   "Volume": "$224,256,929",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Holo\"",
@@ -1019,8 +1019,8 @@
   "Percent7d": "146.8%",
   "MarketCap": "$563,757,330",
   "Volume": "$181,007,734",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Horizen\"",
@@ -1030,8 +1030,8 @@
   "Percent7d": "-12.3%",
   "MarketCap": "$547,781,623",
   "Volume": "$126,328,071",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Bitmax Token\"",
@@ -1041,8 +1041,8 @@
   "Percent7d": "163.1%",
   "MarketCap": "$542,684,755",
   "Volume": "$16,715,161",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Qtum\"",
@@ -1052,8 +1052,8 @@
   "Percent7d": "-19.3%",
   "MarketCap": "$534,862,869",
   "Volume": "$735,772,082",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Siacoin\"",
@@ -1063,8 +1063,8 @@
   "Percent7d": "-7.1%",
   "MarketCap": "$501,838,590",
   "Volume": "$103,059,542",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Bitcoin Gold\"",
@@ -1074,8 +1074,8 @@
   "Percent7d": "-0.2%",
   "MarketCap": "$484,664,091",
   "Volume": "$99,818,287",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Curve DAO Token\"",
@@ -1085,8 +1085,8 @@
   "Percent7d": "-21.2%",
   "MarketCap": "$480,653,579",
   "Volume": "$245,773,416",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  },
  {
   "name": "\"Flow - Dapper Labs\"",
@@ -1096,7 +1096,7 @@
   "Percent7d": "6.4%",
   "MarketCap": "$474,063,349",
   "Volume": "$47,713,382",
-  "Date": "2021-02-24 18:05:32",
-  "Description": ""
+  "Date": "2021-02-24 18:04:24",
+  "Description": "Increased -10% in a 'h' period"
  }
 ]
