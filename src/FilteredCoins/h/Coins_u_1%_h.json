@@ -1,0 +1,35 @@
+[
+ {
+  "name": "\"Amp\"",
+  "value": "$0.02653622",
+  "Percent1h": "1.7%",
+  "Percent24h": "26.0%",
+  "Percent7d": "-20.4%",
+  "MarketCap": "$961,804,801",
+  "Volume": "$5,276,600",
+  "Date": "2021-02-24 17:50:10",
+  "Description": "Increased 1% in a h period"
+ },
+ {
+  "name": "\"SwissBorg\"",
+  "value": "$0.930021",
+  "Percent1h": "1.1%",
+  "Percent24h": "-1.6%",
+  "Percent7d": "3.1%",
+  "MarketCap": "$866,752,848",
+  "Volume": "$12,509,666",
+  "Date": "2021-02-24 17:50:10",
+  "Description": "Increased 1% in a h period"
+ },
+ {
+  "name": "\"Bitmax Token\"",
+  "value": "$0.749338",
+  "Percent1h": "2.3%",
+  "Percent24h": "58.1%",
+  "Percent7d": "172.2%",
+  "MarketCap": "$569,474,678",
+  "Volume": "$17,045,050",
+  "Date": "2021-02-24 17:50:10",
+  "Description": "Increased 1% in a h period"
+ }
+]

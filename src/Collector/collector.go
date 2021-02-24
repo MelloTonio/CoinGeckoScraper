@@ -73,8 +73,9 @@ func GetCoinGecko() []Model.Coin {
 		TempCoin.Volume = coin[4]
 		TempCoin.MarketCap = coin[5]
 		TempCoin.Name = coin[6]
-		TempCoin.Date = time.Now()
-
+		TempCoin.Date = fmt.Sprintf("%d-%02d-%02d %02d:%02d:%02d",
+			time.Now().Year(), time.Now().Month(), time.Now().Day(),
+			time.Now().Hour(), time.Now().Minute(), time.Now().Second())
 		TopCoins = append(TopCoins, TempCoin)
 	}
 

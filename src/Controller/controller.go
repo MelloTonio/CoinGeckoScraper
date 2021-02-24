@@ -8,7 +8,9 @@ import (
 	"strconv"
 	"strings"
 
+	"github.com/fatih/color"
 	"github.com/mellotonio/coinfinder/src/Collector"
+	Colors "github.com/mellotonio/coinfinder/src/Color"
 	"github.com/mellotonio/coinfinder/src/Helpers"
 	Model "github.com/mellotonio/coinfinder/src/Models"
 )
@@ -42,11 +44,13 @@ func FetchJson() []Model.Coin {
 // Options Ex: 'Options: { Direction: "d", Percent: 5}'
 
 func FilterByPercent(CoinsList []Model.Coin, options Model.Options) string {
+	color.Yellow("Time Range: %s - Percentage: %d%% - Direction: %s", options.Time, int(options.Percent), options.Direction)
+
 	var FilteredCoins []Model.Coin
 	var removePercent string
 
 	if options.Direction != "d" && options.Direction != "u" {
-		fmt.Println("Invalid 'Percent Direction'. Please use: u (up) or d (down)")
+		color.Red("Invalid 'Percent Direction'. Please use: u (up) or d (down)")
 		return ""
 	}
 
@@ -81,15 +85,21 @@ func FilterByPercent(CoinsList []Model.Coin, options Model.Options) string {
 
 			case "d":
 				if coinPercent < options.Percent {
+					coin.Description = fmt.Sprintf("Decreased %d%% in a '%s' period", int(options.Percent), options.Time)
+
 					FilteredCoins = append(FilteredCoins, coin)
-					fmt.Printf("Coin: %s - Drop Percentage: %s\n", coin.Name, coinPercentage)
+
+					color.Blue("Coin: %s - Drop Percentage: %s\n", coin.Name, coinPercentage)
 				}
 				break
 
 			case "u":
 				if coinPercent > options.Percent {
+					coin.Description = fmt.Sprintf("Increased %d%% in a '%s' period", int(options.Percent), options.Time)
+
 					FilteredCoins = append(FilteredCoins, coin)
-					fmt.Printf("Coin: %s - Up Percentage: %s\n", coin.Name, coinPercentage)
+
+					color.Blue(Colors.White+"Coin: %s - Up Percentage: %s\n", coin.Name, coinPercentage)
 				}
 				break
 			}
@@ -99,7 +109,17 @@ func FilterByPercent(CoinsList []Model.Coin, options Model.Options) string {
 	}
 
 	// It will create a file -> Coins_(up or down)_(Percent up or down)_(Time range).json
-	JsonName := fmt.Sprintf("Coins_%s_%d%%_%s.json", options.Direction, int(options.Percent), options.Time)
+	JsonName := fmt.Sprintf("src/FilteredCoins/%s/Coins_%s_%d%%_%s.json", options.Time, options.Direction, int(options.Percent), options.Time)
 	Helpers.WriteJSON(FilteredCoins, JsonName)
+
+	color.Yellow("Create a new file in: %s", JsonName)
+
 	return "Success"
+}
+
+func GetAllCoins() {
+	Top100Coins := Collector.GetCoinGecko()
+	Helpers.WriteJSON(Top100Coins, "Coins.json")
+
+	color.Yellow("Updated 'Coins.json' successfully!")
 }
