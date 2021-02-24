@@ -85,7 +85,7 @@ func FilterByPercent(CoinsList []Model.Coin, options Model.Options) string {
 
 			case "d":
 				if coinPercent < options.Percent {
-					coin.Description = fmt.Sprintf("Decreased %d%% in a '%s' period", int(options.Percent), options.Time)
+					coin.Description = fmt.Sprintf("%s decreased %.2f%% in a '%s' period - DATE: %s", coin.Name, coinPercent, options.Time, coin.Date)
 
 					FilteredCoins = append(FilteredCoins, coin)
 
@@ -95,7 +95,7 @@ func FilterByPercent(CoinsList []Model.Coin, options Model.Options) string {
 
 			case "u":
 				if coinPercent > options.Percent {
-					coin.Description = fmt.Sprintf("Increased %d%% in a '%s' period", int(options.Percent), options.Time)
+					coin.Description = fmt.Sprintf("%s increased %f in a '%s' period - DATE: %s", coin.Name, coinPercent, options.Time, coin.Date)
 
 					FilteredCoins = append(FilteredCoins, coin)
 
