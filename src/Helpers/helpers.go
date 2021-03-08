@@ -11,7 +11,7 @@ import (
 func IsLetter(str string) bool {
 	for x := 0; x < len(str); x++ {
 		ch := str[x]
-		if !((ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z') || ch == ' ' || ch == '.' || ch == '0' || ch == '-') {
+		if !((ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z') || ch == ' ' || ch == '.' || ch == '0' || ch == '-' || ch == '1' || ch == '[' || ch == ']') {
 			return false
 		}
 	}
@@ -26,4 +26,14 @@ func WriteJSON(data []Model.Coin, name string) {
 	}
 
 	_ = ioutil.WriteFile(name, file, 0644)
+}
+
+func Contains(slice []string, item string) bool {
+	set := make(map[string]struct{}, len(slice))
+	for _, s := range slice {
+		set[s] = struct{}{}
+	}
+
+	_, ok := set[item]
+	return ok
 }

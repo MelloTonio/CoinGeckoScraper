@@ -15,17 +15,15 @@ import (
 	Model "github.com/mellotonio/coinfinder/src/Models"
 )
 
-func FetchJson() []Model.Coin {
-	Top100Coins := Collector.GetCoinGecko()
-	Helpers.WriteJSON(Top100Coins, "Coins.json")
+func FetchJson(filename string) []Model.Coin {
 
-	jsonFile, err := os.Open("Coins.json")
+	jsonFile, err := os.Open(filename)
 
 	if err != nil {
 		fmt.Println(err)
 	}
 
-	fmt.Println("Successfully Opened Coin.json")
+	fmt.Println("Successfully Opened json file")
 
 	defer jsonFile.Close()
 
@@ -95,7 +93,7 @@ func FilterByPercent(CoinsList []Model.Coin, options Model.Options) string {
 
 			case "u":
 				if coinPercent > options.Percent {
-					coin.Description = fmt.Sprintf("%s increased %f in a '%s' period - DATE: %s", coin.Name, coinPercent, options.Time, coin.Date)
+					coin.Description = fmt.Sprintf("%s increased %.2f%% in a '%s' period - DATE: %s", coin.Name, coinPercent, options.Time, coin.Date)
 
 					FilteredCoins = append(FilteredCoins, coin)
 
@@ -117,8 +115,8 @@ func FilterByPercent(CoinsList []Model.Coin, options Model.Options) string {
 	return "Success"
 }
 
-func GetAllCoins() {
-	Top100Coins := Collector.GetCoinGecko()
+func GetAllCoins(pageLimit int) {
+	Top100Coins := Collector.GetCoinGecko(pageLimit)
 	Helpers.WriteJSON(Top100Coins, "Coins.json")
 
 	color.Yellow("Updated 'Coins.json' successfully!")

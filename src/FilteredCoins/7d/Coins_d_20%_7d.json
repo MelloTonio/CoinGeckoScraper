@@ -8,18 +8,7 @@
   "MarketCap": "$963,254,056,229",
   "Volume": "$52,269,222,267",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Ethereum",
-  "value": "$1,784.04",
-  "Percent1h": "-0.1%",
-  "Percent24h": "5.6%",
-  "Percent7d": "25.9%",
-  "MarketCap": "$204,954,164,402",
-  "Volume": "$34,360,791,201",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Bitcoin decreased 14.80% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Tether",
@@ -30,7 +19,7 @@
   "MarketCap": "$36,490,387,415",
   "Volume": "$93,398,595,846",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Tether decreased -1.10% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Binance Coin",
@@ -41,7 +30,7 @@
   "MarketCap": "$36,430,599,218",
   "Volume": "$2,769,385,955",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Binance Coin decreased 12.30% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Cardano",
@@ -52,7 +41,7 @@
   "MarketCap": "$35,525,696,230",
   "Volume": "$3,770,362,097",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Cardano decreased -14.90% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Polkadot",
@@ -63,7 +52,7 @@
   "MarketCap": "$33,374,281,416",
   "Volume": "$1,181,977,152",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Polkadot decreased 2.50% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "XRP",
@@ -74,29 +63,7 @@
   "MarketCap": "$21,636,624,871",
   "Volume": "$3,563,039,604",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Uniswap",
-  "value": "$32.67",
-  "Percent1h": "-2.7%",
-  "Percent24h": "-1.6%",
-  "Percent7d": "47.4%",
-  "MarketCap": "$17,035,989,550",
-  "Volume": "$1,713,443,361",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Chainlink",
-  "value": "$30.87",
-  "Percent1h": "-0.7%",
-  "Percent24h": "9.2%",
-  "Percent7d": "25.4%",
-  "MarketCap": "$12,719,680,486",
-  "Volume": "$2,175,869,153",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "XRP decreased 14.20% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Litecoin",
@@ -107,7 +74,7 @@
   "MarketCap": "$12,573,913,974",
   "Volume": "$5,633,578,954",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Litecoin decreased 14.80% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Bitcoin Cash",
@@ -118,7 +85,7 @@
   "MarketCap": "$9,735,637,566",
   "Volume": "$4,586,514,048",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Bitcoin Cash decreased 13.20% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Stellar",
@@ -129,7 +96,7 @@
   "MarketCap": "$9,293,363,583",
   "Volume": "$801,725,503",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Stellar decreased 1.40% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "USD Coin",
@@ -140,18 +107,7 @@
   "MarketCap": "$9,132,534,187",
   "Volume": "$1,338,940,443",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Dogecoin",
-  "value": "$0.05882098",
-  "Percent1h": "-0.1%",
-  "Percent24h": "13.7%",
-  "Percent7d": "21.9%",
-  "MarketCap": "$7,562,653,075",
-  "Volume": "$3,323,262,276",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "USD Coin decreased 0.30% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Wrapped Bitcoin",
@@ -162,7 +118,7 @@
   "MarketCap": "$6,694,154,829",
   "Volume": "$406,249,035",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Wrapped Bitcoin decreased 14.50% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "NEM",
@@ -173,29 +129,7 @@
   "MarketCap": "$6,307,996,276",
   "Volume": "$639,158,604",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Aave",
-  "value": "$425.24",
-  "Percent1h": "-0.8%",
-  "Percent24h": "4.5%",
-  "Percent7d": "21.1%",
-  "MarketCap": "$5,278,676,776",
-  "Volume": "$1,106,927,165",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Theta Network",
-  "value": "$4.77",
-  "Percent1h": "-1.2%",
-  "Percent24h": "10.2%",
-  "Percent7d": "52.6%",
-  "MarketCap": "$4,782,478,710",
-  "Volume": "$353,036,826",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "NEM decreased 16.90% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Cosmos",
@@ -206,7 +140,7 @@
   "MarketCap": "$4,517,352,207",
   "Volume": "$879,971,509",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Cosmos decreased 7.40% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "OKB",
@@ -217,18 +151,7 @@
   "MarketCap": "$4,488,639,945",
   "Volume": "$258,526,269",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "VeChain",
-  "value": "$0.06435929",
-  "Percent1h": "-0.7%",
-  "Percent24h": "11.6%",
-  "Percent7d": "62.4%",
-  "MarketCap": "$4,144,603,509",
-  "Volume": "$963,476,150",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "OKB decreased 6.50% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Monero",
@@ -239,18 +162,7 @@
   "MarketCap": "$3,924,150,688",
   "Volume": "$744,622,987",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Terra",
-  "value": "$9.73",
-  "Percent1h": "4.1%",
-  "Percent24h": "21.0%",
-  "Percent7d": "81.7%",
-  "MarketCap": "$3,857,114,008",
-  "Volume": "$491,710,411",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Monero decreased 0.80% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Crypto.com Coin",
@@ -261,7 +173,7 @@
   "MarketCap": "$3,825,463,621",
   "Volume": "$166,728,260",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Crypto.com Coin decreased 17.30% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "TRON",
@@ -272,7 +184,7 @@
   "MarketCap": "$3,753,988,688",
   "Volume": "$1,871,531,989",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "TRON decreased 15.20% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "EOS",
@@ -283,7 +195,7 @@
   "MarketCap": "$3,669,661,824",
   "Volume": "$2,616,517,866",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "EOS decreased 11.40% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Solana",
@@ -294,7 +206,7 @@
   "MarketCap": "$3,590,222,028",
   "Volume": "$134,253,098",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Solana decreased 3.50% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "IOTA",
@@ -305,7 +217,7 @@
   "MarketCap": "$3,583,144,501",
   "Volume": "$103,538,828",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "IOTA decreased 15.50% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Bitcoin SV",
@@ -316,18 +228,7 @@
   "MarketCap": "$3,437,002,953",
   "Volume": "$603,543,666",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Tezos",
-  "value": "$4.31",
-  "Percent1h": "0.0%",
-  "Percent24h": "4.1%",
-  "Percent7d": "26.6%",
-  "MarketCap": "$3,292,883,251",
-  "Volume": "$608,660,311",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Bitcoin SV decreased 4.10% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Synthetix Network Token",
@@ -338,7 +239,7 @@
   "MarketCap": "$3,137,650,694",
   "Volume": "$163,952,687",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Synthetix Network Token decreased 14.10% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Binance USD",
@@ -349,7 +250,7 @@
   "MarketCap": "$2,989,059,052",
   "Volume": "$3,259,207,519",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Binance USD decreased 0.20% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Huobi Token",
@@ -360,18 +261,7 @@
   "MarketCap": "$2,891,772,379",
   "Volume": "$4,054,480,662",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "FTX Token",
-  "value": "$31.43",
-  "Percent1h": "-0.4%",
-  "Percent24h": "3.1%",
-  "Percent7d": "21.4%",
-  "MarketCap": "$2,797,229,318",
-  "Volume": "$43,845,520",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Huobi Token decreased 12.40% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "NEO",
@@ -382,7 +272,7 @@
   "MarketCap": "$2,764,187,171",
   "Volume": "$706,773,579",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "NEO decreased 12.10% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "cDAI",
@@ -393,7 +283,7 @@
   "MarketCap": "$2,607,605,961",
   "Volume": "$5,049,529",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "cDAI decreased -0.30% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Dai",
@@ -404,7 +294,7 @@
   "MarketCap": "$2,571,625,853",
   "Volume": "$350,340,228",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Dai decreased -0.30% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Elrond",
@@ -415,18 +305,7 @@
   "MarketCap": "$2,516,144,250",
   "Volume": "$128,796,183",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "0.0",
-  "value": "$35.82",
-  "Percent1h": "0.1%",
-  "Percent24h": "6.1%",
-  "Percent7d": "25.8%",
-  "MarketCap": "$2,474,144,360",
-  "Volume": "$0.00000000",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Elrond decreased 12.20% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Filecoin",
@@ -437,7 +316,7 @@
   "MarketCap": "$2,361,424,887",
   "Volume": "$223,378,798",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Filecoin decreased 14.30% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "The Graph",
@@ -448,7 +327,7 @@
   "MarketCap": "$2,302,443,125",
   "Volume": "$339,312,650",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "The Graph decreased 19.40% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Avalanche",
@@ -459,7 +338,7 @@
   "MarketCap": "$2,153,335,006",
   "Volume": "$202,702,476",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Avalanche decreased 6.30% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Sushi",
@@ -470,7 +349,7 @@
   "MarketCap": "$2,147,092,203",
   "Volume": "$728,086,488",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Sushi decreased 12.10% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Dash",
@@ -481,7 +360,7 @@
   "MarketCap": "$2,129,016,397",
   "Volume": "$938,547,390",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Dash decreased 8.50% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Kusama",
@@ -492,7 +371,7 @@
   "MarketCap": "$2,124,219,741",
   "Volume": "$199,519,944",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Kusama decreased 11.50% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Celsius Network",
@@ -503,7 +382,7 @@
   "MarketCap": "$2,095,158,263",
   "Volume": "$12,187,933",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Celsius Network decreased 17.20% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Compound",
@@ -514,7 +393,7 @@
   "MarketCap": "$2,047,486,640",
   "Volume": "$100,971,949",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Compound decreased 17.30% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "cUSDC",
@@ -525,7 +404,7 @@
   "MarketCap": "$1,973,164,422",
   "Volume": "$24,081,508",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "cUSDC decreased -0.20% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Maker",
@@ -536,7 +415,7 @@
   "MarketCap": "$1,934,397,768",
   "Volume": "$128,274,157",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Maker decreased 6.30% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Decred",
@@ -547,7 +426,7 @@
   "MarketCap": "$1,912,340,589",
   "Volume": "$32,088,419",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Decred decreased 12.80% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "LEO Token",
@@ -558,40 +437,7 @@
   "MarketCap": "$1,846,001,754",
   "Volume": "$1,123,938",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Enjin Coin",
-  "value": "$1.69",
-  "Percent1h": "1.2%",
-  "Percent24h": "24.3%",
-  "Percent7d": "197.3%",
-  "MarketCap": "$1,538,749,188",
-  "Volume": "$2,000,230,156",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "PancakeSwap",
-  "value": "$11.57",
-  "Percent1h": "0.4%",
-  "Percent24h": "0.2%",
-  "Percent7d": "23.2%",
-  "MarketCap": "$1,490,394,076",
-  "Volume": "$173,824,899",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "UMA",
-  "value": "$26.22",
-  "Percent1h": "-1.6%",
-  "Percent24h": "18.7%",
-  "Percent7d": "35.3%",
-  "MarketCap": "$1,473,978,424",
-  "Volume": "$163,046,123",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "LEO Token decreased 0.40% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Zilliqa",
@@ -602,7 +448,7 @@
   "MarketCap": "$1,467,168,842",
   "Volume": "$171,833,761",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Zilliqa decreased 15.60% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Near",
@@ -613,18 +459,7 @@
   "MarketCap": "$1,420,800,201",
   "Volume": "$67,061,926",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "yearn.finance",
-  "value": "$38,989",
-  "Percent1h": "1.0%",
-  "Percent24h": "1.4%",
-  "Percent7d": "27.3%",
-  "MarketCap": "$1,408,680,869",
-  "Volume": "$650,694,473",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Near decreased 19.30% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Zcash",
@@ -635,18 +470,7 @@
   "MarketCap": "$1,380,604,500",
   "Volume": "$969,051,706",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Bancor Network Token",
-  "value": "$8.96",
-  "Percent1h": "-0.3%",
-  "Percent24h": "7.8%",
-  "Percent7d": "86.2%",
-  "MarketCap": "$1,367,495,732",
-  "Volume": "$587,273,945",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Zcash decreased 14.00% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Ethereum Classic",
@@ -657,7 +481,7 @@
   "MarketCap": "$1,340,905,231",
   "Volume": "$1,382,148,416",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Ethereum Classic decreased 12.40% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Huobi BTC",
@@ -668,29 +492,7 @@
   "MarketCap": "$1,332,998,874",
   "Volume": "$342,346,971",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "THORChain",
-  "value": "$5.69",
-  "Percent1h": "-0.5%",
-  "Percent24h": "1.2%",
-  "Percent7d": "30.2%",
-  "MarketCap": "$1,321,877,395",
-  "Volume": "$38,978,871",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Hedera Hashgraph",
-  "value": "$0.172742",
-  "Percent1h": "-1.0%",
-  "Percent24h": "12.6%",
-  "Percent7d": "48.1%",
-  "MarketCap": "$1,294,936,912",
-  "Volume": "$260,648,961",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Huobi BTC decreased 14.40% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "NEXO",
@@ -701,7 +503,7 @@
   "MarketCap": "$1,276,926,079",
   "Volume": "$9,155,728",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "NEXO decreased 12.30% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Voyager Token",
@@ -712,18 +514,7 @@
   "MarketCap": "$1,261,734,099",
   "Volume": "$10,146,737",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Chiliz",
-  "value": "$0.233916",
-  "Percent1h": "15.6%",
-  "Percent24h": "78.9%",
-  "Percent7d": "361.4%",
-  "MarketCap": "$1,259,862,606",
-  "Volume": "$3,175,330,860",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Voyager Token decreased -10.50% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Ravencoin",
@@ -734,29 +525,7 @@
   "MarketCap": "$1,252,343,295",
   "Volume": "$129,087,359",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Stacks",
-  "value": "$1.18",
-  "Percent1h": "-0.3%",
-  "Percent24h": "-2.8%",
-  "Percent7d": "24.5%",
-  "MarketCap": "$1,232,049,518",
-  "Volume": "$23,409,961",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "SwissBorg",
-  "value": "$1.30",
-  "Percent1h": "1.1%",
-  "Percent24h": "13.2%",
-  "Percent7d": "51.9%",
-  "MarketCap": "$1,217,702,139",
-  "Volume": "$17,524,319",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Ravencoin decreased 15.50% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Fantom",
@@ -767,29 +536,7 @@
   "MarketCap": "$1,124,503,633",
   "Volume": "$184,223,405",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "ICON",
-  "value": "$1.87",
-  "Percent1h": "-0.4%",
-  "Percent24h": "-3.9%",
-  "Percent7d": "34.8%",
-  "MarketCap": "$1,117,466,528",
-  "Volume": "$783,626,889",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Basic Attention Token",
-  "value": "$0.726659",
-  "Percent1h": "1.8%",
-  "Percent24h": "5.5%",
-  "Percent7d": "40.2%",
-  "MarketCap": "$1,083,934,489",
-  "Volume": "$358,803,593",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Fantom decreased 5.60% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Polygon",
@@ -800,7 +547,7 @@
   "MarketCap": "$1,076,280,856",
   "Volume": "$133,065,559",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Polygon decreased -4.40% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "REN",
@@ -811,7 +558,7 @@
   "MarketCap": "$1,053,807,070",
   "Volume": "$297,670,256",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "REN decreased 15.00% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Waves",
@@ -822,18 +569,7 @@
   "MarketCap": "$1,002,901,954",
   "Volume": "$82,348,578",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Flow",
-  "value": "$31.72",
-  "Percent1h": "-1.7%",
-  "Percent24h": "-6.5%",
-  "Percent7d": "52.7%",
-  "MarketCap": "$966,724,155",
-  "Volume": "$69,340,130",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Waves decreased 12.40% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Algorand",
@@ -844,18 +580,7 @@
   "MarketCap": "$911,653,083",
   "Volume": "$555,710,443",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Ontology",
-  "value": "$1.10",
-  "Percent1h": "-0.4%",
-  "Percent24h": "6.3%",
-  "Percent7d": "31.4%",
-  "MarketCap": "$892,580,312",
-  "Volume": "$434,343,578",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Algorand decreased 11.00% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "BitTorrent",
@@ -866,18 +591,7 @@
   "MarketCap": "$831,458,461",
   "Volume": "$307,935,719",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "IOST",
-  "value": "$0.04435380",
-  "Percent1h": "0.2%",
-  "Percent24h": "-2.5%",
-  "Percent7d": "28.0%",
-  "MarketCap": "$820,477,513",
-  "Volume": "$268,197,635",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "BitTorrent decreased 10.60% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Paxos Standard",
@@ -888,7 +602,7 @@
   "MarketCap": "$800,484,137",
   "Volume": "$89,957,324",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Paxos Standard decreased 0.30% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "TerraUSD",
@@ -899,7 +613,7 @@
   "MarketCap": "$795,048,533",
   "Volume": "$90,981,684",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "TerraUSD decreased 0.20% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "xSUSHI",
@@ -910,7 +624,7 @@
   "MarketCap": "$789,782,298",
   "Volume": "$0.00000000",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "xSUSHI decreased 12.00% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "DigiByte",
@@ -921,7 +635,7 @@
   "MarketCap": "$771,901,911",
   "Volume": "$50,918,697",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "DigiByte decreased 7.30% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Amp",
@@ -932,7 +646,7 @@
   "MarketCap": "$751,804,667",
   "Volume": "$2,431,774",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Amp decreased -7.60% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Nano",
@@ -943,7 +657,7 @@
   "MarketCap": "$746,388,785",
   "Volume": "$43,912,516",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Nano decreased 14.70% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "renBTC",
@@ -954,18 +668,7 @@
   "MarketCap": "$718,714,844",
   "Volume": "$64,571,221",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Reserve Rights Token",
-  "value": "$0.07582459",
-  "Percent1h": "-1.1%",
-  "Percent24h": "3.2%",
-  "Percent7d": "45.4%",
-  "MarketCap": "$712,125,532",
-  "Volume": "$395,804,369",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "renBTC decreased 15.20% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Loopring",
@@ -976,7 +679,7 @@
   "MarketCap": "$711,866,598",
   "Volume": "$80,599,142",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Loopring decreased 10.70% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "OMG Network",
@@ -987,29 +690,7 @@
   "MarketCap": "$711,855,966",
   "Volume": "$392,615,473",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Qtum",
-  "value": "$6.22",
-  "Percent1h": "-0.4%",
-  "Percent24h": "-1.1%",
-  "Percent7d": "28.6%",
-  "MarketCap": "$642,845,963",
-  "Volume": "$501,324,648",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Decentraland",
-  "value": "$0.482929",
-  "Percent1h": "3.9%",
-  "Percent24h": "22.4%",
-  "Percent7d": "103.9%",
-  "MarketCap": "$629,245,883",
-  "Volume": "$620,125,018",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "OMG Network decreased 19.20% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "1inch",
@@ -1020,7 +701,7 @@
   "MarketCap": "$621,228,636",
   "Volume": "$330,768,465",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "1inch decreased 12.20% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "HUSD",
@@ -1031,40 +712,7 @@
   "MarketCap": "$600,370,231",
   "Volume": "$152,563,060",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Ocean Protocol",
-  "value": "$1.41",
-  "Percent1h": "0.1%",
-  "Percent24h": "-5.0%",
-  "Percent7d": "68.8%",
-  "MarketCap": "$592,516,017",
-  "Volume": "$208,665,072",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Arweave",
-  "value": "$12.90",
-  "Percent1h": "-0.4%",
-  "Percent24h": "-1.8%",
-  "Percent7d": "39.6%",
-  "MarketCap": "$565,106,922",
-  "Volume": "$15,655,774",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Curve DAO Token",
-  "value": "$2.32",
-  "Percent1h": "-0.9%",
-  "Percent24h": "5.7%",
-  "Percent7d": "32.0%",
-  "MarketCap": "$565,081,646",
-  "Volume": "$320,279,811",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "HUSD decreased -0.20% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Mdex",
@@ -1075,7 +723,7 @@
   "MarketCap": "$555,729,597",
   "Volume": "$305,099,204",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Mdex decreased -4.20% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "ZKSwap",
@@ -1086,7 +734,7 @@
   "MarketCap": "$554,557,617",
   "Volume": "$134,522,825",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "ZKSwap decreased 8.60% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Bitcoin",
@@ -1097,18 +745,7 @@
   "MarketCap": "$963.254.056.229",
   "Volume": "$52.269.222.267",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Ethereum",
-  "value": "$1.784,04",
-  "Percent1h": "-0.1%",
-  "Percent24h": "5.6%",
-  "Percent7d": "25.9%",
-  "MarketCap": "$204.954.164.402",
-  "Volume": "$34.360.791.201",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Bitcoin decreased 14.80% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Tether",
@@ -1119,7 +756,7 @@
   "MarketCap": "$36.490.387.415",
   "Volume": "$93.398.595.846",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Tether decreased -1.10% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Binance Coin",
@@ -1130,7 +767,7 @@
   "MarketCap": "$36.430.599.218",
   "Volume": "$2.769.385.955",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Binance Coin decreased 12.30% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Cardano",
@@ -1141,7 +778,7 @@
   "MarketCap": "$35.525.696.230",
   "Volume": "$3.695.000.507",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Cardano decreased -14.90% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Polkadot",
@@ -1152,7 +789,7 @@
   "MarketCap": "$33.374.281.416",
   "Volume": "$1.181.977.152",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Polkadot decreased 2.50% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "XRP",
@@ -1163,29 +800,7 @@
   "MarketCap": "$21.636.624.871",
   "Volume": "$3.563.039.604",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Uniswap",
-  "value": "$32,67",
-  "Percent1h": "-2.7%",
-  "Percent24h": "-1.6%",
-  "Percent7d": "47.4%",
-  "MarketCap": "$17.035.989.550",
-  "Volume": "$1.713.443.361",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Chainlink",
-  "value": "$30,91",
-  "Percent1h": "-0.6%",
-  "Percent24h": "9.3%",
-  "Percent7d": "25.6%",
-  "MarketCap": "$12.719.680.486",
-  "Volume": "$2.174.859.162",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "XRP decreased 14.20% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Litecoin",
@@ -1196,7 +811,7 @@
   "MarketCap": "$12.573.913.974",
   "Volume": "$5.633.578.954",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Litecoin decreased 14.80% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Bitcoin Cash",
@@ -1207,7 +822,7 @@
   "MarketCap": "$9.735.637.566",
   "Volume": "$4.586.514.048",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Bitcoin Cash decreased 13.20% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Stellar",
@@ -1218,7 +833,7 @@
   "MarketCap": "$9.293.363.583",
   "Volume": "$801.725.503",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Stellar decreased 1.40% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "USD Coin",
@@ -1229,18 +844,7 @@
   "MarketCap": "$9.132.534.187",
   "Volume": "$1.339.579.718",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Dogecoin",
-  "value": "$0,05882098",
-  "Percent1h": "-0.1%",
-  "Percent24h": "13.7%",
-  "Percent7d": "21.9%",
-  "MarketCap": "$7.562.653.075",
-  "Volume": "$3.323.262.276",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "USD Coin decreased 0.30% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Wrapped Bitcoin",
@@ -1251,7 +855,7 @@
   "MarketCap": "$6.694.154.829",
   "Volume": "$406.249.035",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Wrapped Bitcoin decreased 14.50% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "NEM",
@@ -1262,29 +866,7 @@
   "MarketCap": "$6.307.996.276",
   "Volume": "$639.158.604",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Aave",
-  "value": "$425,24",
-  "Percent1h": "-0.8%",
-  "Percent24h": "4.5%",
-  "Percent7d": "21.1%",
-  "MarketCap": "$5.278.676.776",
-  "Volume": "$1.106.927.165",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Theta Network",
-  "value": "$4,77",
-  "Percent1h": "-1.2%",
-  "Percent24h": "10.2%",
-  "Percent7d": "52.6%",
-  "MarketCap": "$4.782.478.710",
-  "Volume": "$353.036.826",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "NEM decreased 16.90% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Cosmos",
@@ -1295,7 +877,7 @@
   "MarketCap": "$4.517.352.207",
   "Volume": "$879.971.509",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Cosmos decreased 7.40% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "OKB",
@@ -1306,18 +888,7 @@
   "MarketCap": "$4.488.639.945",
   "Volume": "$258.526.269",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "VeChain",
-  "value": "$0,06435929",
-  "Percent1h": "-0.7%",
-  "Percent24h": "11.6%",
-  "Percent7d": "62.4%",
-  "MarketCap": "$4.144.603.509",
-  "Volume": "$963.476.150",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "OKB decreased 6.50% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Monero",
@@ -1328,18 +899,7 @@
   "MarketCap": "$3.924.150.688",
   "Volume": "$744.622.987",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Terra",
-  "value": "$9,73",
-  "Percent1h": "4.1%",
-  "Percent24h": "21.0%",
-  "Percent7d": "81.7%",
-  "MarketCap": "$3.857.114.008",
-  "Volume": "$491.710.411",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Monero decreased 0.80% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Crypto.com Coin",
@@ -1350,7 +910,7 @@
   "MarketCap": "$3.825.463.621",
   "Volume": "$166.728.260",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Crypto.com Coin decreased 17.30% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "TRON",
@@ -1361,7 +921,7 @@
   "MarketCap": "$3.753.988.688",
   "Volume": "$1.871.531.989",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "TRON decreased 15.20% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "EOS",
@@ -1372,7 +932,7 @@
   "MarketCap": "$3.669.661.824",
   "Volume": "$2.616.208.369",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "EOS decreased 11.40% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Solana",
@@ -1383,7 +943,7 @@
   "MarketCap": "$3.590.222.028",
   "Volume": "$134.253.098",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Solana decreased 3.50% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "IOTA",
@@ -1394,7 +954,7 @@
   "MarketCap": "$3.583.144.501",
   "Volume": "$103.621.944",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "IOTA decreased 15.60% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Bitcoin SV",
@@ -1405,18 +965,7 @@
   "MarketCap": "$3.437.002.953",
   "Volume": "$603.543.666",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Tezos",
-  "value": "$4,31",
-  "Percent1h": "0.0%",
-  "Percent24h": "4.1%",
-  "Percent7d": "26.6%",
-  "MarketCap": "$3.292.883.251",
-  "Volume": "$608.660.311",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Bitcoin SV decreased 4.10% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Synthetix Network Token",
@@ -1427,7 +976,7 @@
   "MarketCap": "$3.137.650.694",
   "Volume": "$163.952.687",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Synthetix Network Token decreased 14.10% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Binance USD",
@@ -1438,7 +987,7 @@
   "MarketCap": "$2.989.059.052",
   "Volume": "$3.259.207.519",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Binance USD decreased 0.20% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Huobi Token",
@@ -1449,18 +998,7 @@
   "MarketCap": "$2.891.772.379",
   "Volume": "$4.054.480.662",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "FTX Token",
-  "value": "$31,43",
-  "Percent1h": "-0.4%",
-  "Percent24h": "3.1%",
-  "Percent7d": "21.4%",
-  "MarketCap": "$2.797.229.318",
-  "Volume": "$43.845.520",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Huobi Token decreased 12.40% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "NEO",
@@ -1471,7 +1009,7 @@
   "MarketCap": "$2.764.187.171",
   "Volume": "$706.773.579",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "NEO decreased 12.10% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "cDAI",
@@ -1482,7 +1020,7 @@
   "MarketCap": "$2.607.605.961",
   "Volume": "$5.049.529",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "cDAI decreased -0.30% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Dai",
@@ -1493,7 +1031,7 @@
   "MarketCap": "$2.571.625.853",
   "Volume": "$350.340.228",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Dai decreased -0.30% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Elrond",
@@ -1504,18 +1042,7 @@
   "MarketCap": "$2.516.144.250",
   "Volume": "$128.681.105",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "0.0",
-  "value": "$35,82",
-  "Percent1h": "0.1%",
-  "Percent24h": "6.1%",
-  "Percent7d": "25.8%",
-  "MarketCap": "$2.474.144.360",
-  "Volume": "$0,00000000",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Elrond decreased 12.10% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Filecoin",
@@ -1526,7 +1053,7 @@
   "MarketCap": "$2.361.424.887",
   "Volume": "$223.378.798",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Filecoin decreased 14.30% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "The Graph",
@@ -1537,7 +1064,7 @@
   "MarketCap": "$2.302.443.125",
   "Volume": "$339.561.506",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "The Graph decreased 19.50% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Avalanche",
@@ -1548,7 +1075,7 @@
   "MarketCap": "$2.153.335.006",
   "Volume": "$202.702.476",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Avalanche decreased 6.30% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Sushi",
@@ -1559,7 +1086,7 @@
   "MarketCap": "$2.147.092.203",
   "Volume": "$728.686.138",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Sushi decreased 12.20% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Dash",
@@ -1570,7 +1097,7 @@
   "MarketCap": "$2.129.016.397",
   "Volume": "$938.547.390",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Dash decreased 8.50% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Kusama",
@@ -1581,7 +1108,7 @@
   "MarketCap": "$2.124.219.741",
   "Volume": "$199.519.944",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Kusama decreased 11.50% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Celsius Network",
@@ -1592,7 +1119,7 @@
   "MarketCap": "$2.095.158.263",
   "Volume": "$12.195.982",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Celsius Network decreased 17.30% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Compound",
@@ -1603,7 +1130,7 @@
   "MarketCap": "$2.047.486.640",
   "Volume": "$100.930.708",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Compound decreased 17.40% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "cUSDC",
@@ -1614,7 +1141,7 @@
   "MarketCap": "$1.973.164.422",
   "Volume": "$24.081.508",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "cUSDC decreased -0.20% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Maker",
@@ -1625,7 +1152,7 @@
   "MarketCap": "$1.934.397.768",
   "Volume": "$128.336.004",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Maker decreased 6.40% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Decred",
@@ -1636,7 +1163,7 @@
   "MarketCap": "$1.912.340.589",
   "Volume": "$32.088.419",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Decred decreased 12.80% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "LEO Token",
@@ -1647,40 +1174,7 @@
   "MarketCap": "$1.846.001.754",
   "Volume": "$1.123.938",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Enjin Coin",
-  "value": "$1,69",
-  "Percent1h": "1.2%",
-  "Percent24h": "24.3%",
-  "Percent7d": "197.3%",
-  "MarketCap": "$1.538.749.188",
-  "Volume": "$2.000.230.156",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "PancakeSwap",
-  "value": "$11,58",
-  "Percent1h": "0.5%",
-  "Percent24h": "0.2%",
-  "Percent7d": "23.3%",
-  "MarketCap": "$1.490.394.076",
-  "Volume": "$173.945.480",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "UMA",
-  "value": "$26,22",
-  "Percent1h": "-1.6%",
-  "Percent24h": "18.7%",
-  "Percent7d": "35.3%",
-  "MarketCap": "$1.473.978.424",
-  "Volume": "$163.046.123",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "LEO Token decreased 0.40% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Zilliqa",
@@ -1691,7 +1185,7 @@
   "MarketCap": "$1.467.168.842",
   "Volume": "$171.833.761",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Zilliqa decreased 15.60% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Near",
@@ -1702,18 +1196,7 @@
   "MarketCap": "$1.420.800.201",
   "Volume": "$67.061.926",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "yearn.finance",
-  "value": "$38.989",
-  "Percent1h": "1.0%",
-  "Percent24h": "1.4%",
-  "Percent7d": "27.3%",
-  "MarketCap": "$1.408.680.869",
-  "Volume": "$650.694.473",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Near decreased 19.30% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Zcash",
@@ -1724,18 +1207,7 @@
   "MarketCap": "$1.380.604.500",
   "Volume": "$969.051.706",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Bancor Network Token",
-  "value": "$8,96",
-  "Percent1h": "-0.3%",
-  "Percent24h": "7.8%",
-  "Percent7d": "86.2%",
-  "MarketCap": "$1.367.495.732",
-  "Volume": "$587.273.945",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Zcash decreased 14.00% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Ethereum Classic",
@@ -1746,7 +1218,7 @@
   "MarketCap": "$1.340.905.231",
   "Volume": "$1.382.148.416",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Ethereum Classic decreased 12.40% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Huobi BTC",
@@ -1757,29 +1229,7 @@
   "MarketCap": "$1.332.998.874",
   "Volume": "$342.346.971",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "THORChain",
-  "value": "$5,69",
-  "Percent1h": "-0.5%",
-  "Percent24h": "1.2%",
-  "Percent7d": "30.3%",
-  "MarketCap": "$1.321.877.395",
-  "Volume": "$37.789.776",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Hedera Hashgraph",
-  "value": "$0,172872",
-  "Percent1h": "-0.9%",
-  "Percent24h": "12.7%",
-  "Percent7d": "48.2%",
-  "MarketCap": "$1.294.936.912",
-  "Volume": "$260.838.618",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Huobi BTC decreased 14.40% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "NEXO",
@@ -1790,7 +1240,7 @@
   "MarketCap": "$1.276.926.079",
   "Volume": "$9.155.728",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "NEXO decreased 12.30% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Voyager Token",
@@ -1801,18 +1251,7 @@
   "MarketCap": "$1.261.734.099",
   "Volume": "$10.146.737",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Chiliz",
-  "value": "$0,233916",
-  "Percent1h": "15.6%",
-  "Percent24h": "78.9%",
-  "Percent7d": "361.4%",
-  "MarketCap": "$1.259.862.606",
-  "Volume": "$3.175.330.860",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Voyager Token decreased -10.50% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Ravencoin",
@@ -1823,29 +1262,7 @@
   "MarketCap": "$1.252.343.295",
   "Volume": "$129.087.359",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Stacks",
-  "value": "$1,18",
-  "Percent1h": "-0.3%",
-  "Percent24h": "-2.8%",
-  "Percent7d": "24.5%",
-  "MarketCap": "$1.232.049.518",
-  "Volume": "$23.428.013",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "SwissBorg",
-  "value": "$1,30",
-  "Percent1h": "1.1%",
-  "Percent24h": "13.2%",
-  "Percent7d": "51.9%",
-  "MarketCap": "$1.217.702.139",
-  "Volume": "$17.524.319",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Ravencoin decreased 15.50% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Fantom",
@@ -1856,29 +1273,7 @@
   "MarketCap": "$1.124.503.633",
   "Volume": "$184.285.391",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "ICON",
-  "value": "$1,87",
-  "Percent1h": "-0.4%",
-  "Percent24h": "-3.9%",
-  "Percent7d": "34.8%",
-  "MarketCap": "$1.117.466.528",
-  "Volume": "$783.626.889",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Basic Attention Token",
-  "value": "$0,726659",
-  "Percent1h": "1.8%",
-  "Percent24h": "5.5%",
-  "Percent7d": "40.2%",
-  "MarketCap": "$1.083.934.489",
-  "Volume": "$358.803.593",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Fantom decreased 5.70% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Polygon",
@@ -1889,7 +1284,7 @@
   "MarketCap": "$1.076.280.856",
   "Volume": "$133.065.559",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Polygon decreased -4.40% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "REN",
@@ -1900,7 +1295,7 @@
   "MarketCap": "$1.053.807.070",
   "Volume": "$298.882.303",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "REN decreased 15.10% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Waves",
@@ -1911,18 +1306,7 @@
   "MarketCap": "$1.002.901.954",
   "Volume": "$82.348.578",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Flow",
-  "value": "$31,72",
-  "Percent1h": "-1.7%",
-  "Percent24h": "-6.5%",
-  "Percent7d": "52.7%",
-  "MarketCap": "$966.724.155",
-  "Volume": "$69.340.130",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Waves decreased 12.40% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Algorand",
@@ -1933,18 +1317,7 @@
   "MarketCap": "$911.653.083",
   "Volume": "$555.710.443",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Ontology",
-  "value": "$1,10",
-  "Percent1h": "-0.4%",
-  "Percent24h": "6.3%",
-  "Percent7d": "31.4%",
-  "MarketCap": "$892.580.312",
-  "Volume": "$434.343.578",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Algorand decreased 11.00% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "BitTorrent",
@@ -1955,18 +1328,7 @@
   "MarketCap": "$831.458.461",
   "Volume": "$307.935.719",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "IOST",
-  "value": "$0,04435380",
-  "Percent1h": "0.2%",
-  "Percent24h": "-2.5%",
-  "Percent7d": "28.0%",
-  "MarketCap": "$820.477.513",
-  "Volume": "$268.197.635",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "BitTorrent decreased 10.60% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Paxos Standard",
@@ -1977,7 +1339,7 @@
   "MarketCap": "$800.484.137",
   "Volume": "$89.957.324",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Paxos Standard decreased 0.30% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "TerraUSD",
@@ -1988,7 +1350,7 @@
   "MarketCap": "$795.048.533",
   "Volume": "$90.981.684",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "TerraUSD decreased 0.20% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "xSUSHI",
@@ -1999,7 +1361,7 @@
   "MarketCap": "$789.782.298",
   "Volume": "$0,00000000",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "xSUSHI decreased 12.00% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "DigiByte",
@@ -2010,7 +1372,7 @@
   "MarketCap": "$771.901.911",
   "Volume": "$50.963.841",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "DigiByte decreased 7.30% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Amp",
@@ -2021,7 +1383,7 @@
   "MarketCap": "$751.804.667",
   "Volume": "$2.431.774",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Amp decreased -7.60% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Nano",
@@ -2032,7 +1394,7 @@
   "MarketCap": "$746.388.785",
   "Volume": "$43.912.516",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Nano decreased 14.70% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "renBTC",
@@ -2043,18 +1405,7 @@
   "MarketCap": "$718.714.844",
   "Volume": "$64.571.221",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Reserve Rights Token",
-  "value": "$0,07582459",
-  "Percent1h": "-1.1%",
-  "Percent24h": "3.2%",
-  "Percent7d": "45.4%",
-  "MarketCap": "$712.125.532",
-  "Volume": "$395.804.369",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "renBTC decreased 15.20% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Loopring",
@@ -2065,7 +1416,7 @@
   "MarketCap": "$711.866.598",
   "Volume": "$80.599.142",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Loopring decreased 10.70% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "OMG Network",
@@ -2076,29 +1427,7 @@
   "MarketCap": "$711.855.966",
   "Volume": "$392.615.473",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Qtum",
-  "value": "$6,22",
-  "Percent1h": "-0.4%",
-  "Percent24h": "-1.1%",
-  "Percent7d": "28.6%",
-  "MarketCap": "$642.845.963",
-  "Volume": "$501.324.648",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Decentraland",
-  "value": "$0,482929",
-  "Percent1h": "3.9%",
-  "Percent24h": "22.4%",
-  "Percent7d": "103.9%",
-  "MarketCap": "$629.245.883",
-  "Volume": "$620.125.018",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "OMG Network decreased 19.20% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "1inch",
@@ -2109,7 +1438,7 @@
   "MarketCap": "$621.228.636",
   "Volume": "$330.768.465",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "1inch decreased 12.20% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "HUSD",
@@ -2120,40 +1449,7 @@
   "MarketCap": "$600.370.231",
   "Volume": "$152.563.060",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Ocean Protocol",
-  "value": "$1,41",
-  "Percent1h": "0.1%",
-  "Percent24h": "-5.0%",
-  "Percent7d": "68.8%",
-  "MarketCap": "$592.516.017",
-  "Volume": "$208.665.072",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Arweave",
-  "value": "$12,90",
-  "Percent1h": "-0.4%",
-  "Percent24h": "-1.8%",
-  "Percent7d": "39.6%",
-  "MarketCap": "$565.106.922",
-  "Volume": "$15.655.774",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Curve DAO Token",
-  "value": "$2,32",
-  "Percent1h": "-0.9%",
-  "Percent24h": "5.7%",
-  "Percent7d": "32.0%",
-  "MarketCap": "$565.081.646",
-  "Volume": "$320.279.811",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "HUSD decreased -0.20% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Mdex",
@@ -2164,7 +1460,7 @@
   "MarketCap": "$555.729.597",
   "Volume": "$305.099.204",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Mdex decreased -4.20% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "ZKSwap",
@@ -2175,18 +1471,7 @@
   "MarketCap": "$554.557.617",
   "Volume": "$134.522.825",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Bitmax Token",
-  "value": "$0,734525",
-  "Percent1h": "0.3%",
-  "Percent24h": "-5.2%",
-  "Percent7d": "36.1%",
-  "MarketCap": "$551.913.023",
-  "Volume": "$4.274.962",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "ZKSwap decreased 8.60% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Siacoin",
@@ -2197,7 +1482,7 @@
   "MarketCap": "$532.101.397",
   "Volume": "$39.099.896",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Siacoin decreased 15.60% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Horizen",
@@ -2208,62 +1493,7 @@
   "MarketCap": "$530.861.299",
   "Volume": "$86.269.097",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Balancer",
-  "value": "$48,45",
-  "Percent1h": "0.1%",
-  "Percent24h": "12.0%",
-  "Percent7d": "41.3%",
-  "MarketCap": "$523.420.793",
-  "Volume": "$206.578.066",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Holo",
-  "value": "$0,00294859",
-  "Percent1h": "-0.8%",
-  "Percent24h": "-3.6%",
-  "Percent7d": "20.3%",
-  "MarketCap": "$523.038.440",
-  "Volume": "$99.290.576",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "10100",
-  "value": "$15,94",
-  "Percent1h": "1.6%",
-  "Percent24h": "-0.4%",
-  "Percent7d": "33.5%",
-  "MarketCap": "$522.081.546",
-  "Volume": "$3.873.475",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Quant",
-  "value": "$42,12",
-  "Percent1h": "2.9%",
-  "Percent24h": "14.6%",
-  "Percent7d": "28.7%",
-  "MarketCap": "$519.102.134",
-  "Volume": "$11.712.812",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Bitcoin Gold",
-  "value": "$29,40",
-  "Percent1h": "0.1%",
-  "Percent24h": "1.1%",
-  "Percent7d": "21.7%",
-  "MarketCap": "$514.501.950",
-  "Volume": "$39.084.868",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Horizen decreased 16.40% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Pundi X",
@@ -2274,18 +1504,7 @@
   "MarketCap": "$474.920.919",
   "Volume": "$69.510.728",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Nexus Mutual",
-  "value": "$68,42",
-  "Percent1h": "-0.1%",
-  "Percent24h": "5.3%",
-  "Percent7d": "24.1%",
-  "MarketCap": "$472.345.933",
-  "Volume": "$202.254",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Pundi X decreased 8.00% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Lisk",
@@ -2296,7 +1515,7 @@
   "MarketCap": "$461.985.321",
   "Volume": "$24.489.592",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Lisk decreased 11.20% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "XDC Network",
@@ -2307,40 +1526,7 @@
   "MarketCap": "$440.450.344",
   "Volume": "$4.285.445",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Kyber Network",
-  "value": "$2,10",
-  "Percent1h": "-0.3%",
-  "Percent24h": "2.8%",
-  "Percent7d": "33.9%",
-  "MarketCap": "$430.293.783",
-  "Volume": "$86.706.208",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Golem",
-  "value": "$0,415950",
-  "Percent1h": "-0.2%",
-  "Percent24h": "-1.3%",
-  "Percent7d": "29.7%",
-  "MarketCap": "$413.862.231",
-  "Volume": "$6.418.555",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Reef Finance",
-  "value": "$0,03624505",
-  "Percent1h": "-1.1%",
-  "Percent24h": "-4.4%",
-  "Percent7d": "28.6%",
-  "MarketCap": "$409.067.094",
-  "Volume": "$91.826.302",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "XDC Network decreased 9.70% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "DODO",
@@ -2351,40 +1537,7 @@
   "MarketCap": "$399.987.102",
   "Volume": "$43.547.878",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Alpha Finance",
-  "value": "$1,57",
-  "Percent1h": "-0.8%",
-  "Percent24h": "-5.4%",
-  "Percent7d": "27.6%",
-  "MarketCap": "$393.853.188",
-  "Volume": "$106.483.224",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Orion Protocol",
-  "value": "$18,90",
-  "Percent1h": "3.0%",
-  "Percent24h": "13.8%",
-  "Percent7d": "67.8%",
-  "MarketCap": "$385.921.780",
-  "Volume": "$35.642.095",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Ampleforth",
-  "value": "$0,989803",
-  "Percent1h": "0.1%",
-  "Percent24h": "-1.8%",
-  "Percent7d": "27.8%",
-  "MarketCap": "$382.676.733",
-  "Volume": "$3.395.879",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "DODO decreased 12.30% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Celo",
@@ -2395,7 +1548,7 @@
   "MarketCap": "$367.045.439",
   "Volume": "$13.362.815",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Celo decreased 1.40% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "KuCoin Token",
@@ -2406,18 +1559,7 @@
   "MarketCap": "$364.210.780",
   "Volume": "$15.726.222",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Verge",
-  "value": "$0,02161699",
-  "Percent1h": "-2.4%",
-  "Percent24h": "-2.5%",
-  "Percent7d": "24.2%",
-  "MarketCap": "$357.010.458",
-  "Volume": "$14.367.653",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "KuCoin Token decreased 10.20% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Status",
@@ -2428,7 +1570,7 @@
   "MarketCap": "$344.229.524",
   "Volume": "$25.665.615",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Status decreased 11.90% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Venus",
@@ -2439,29 +1581,7 @@
   "MarketCap": "$342.813.832",
   "Volume": "$76.607.993",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Polymath Network",
-  "value": "$0,417673",
-  "Percent1h": "0.4%",
-  "Percent24h": "-2.3%",
-  "Percent7d": "29.5%",
-  "MarketCap": "$338.074.379",
-  "Volume": "$20.533.769",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Harmony",
-  "value": "$0,03607271",
-  "Percent1h": "-1.5%",
-  "Percent24h": "-3.0%",
-  "Percent7d": "49.2%",
-  "MarketCap": "$335.087.661",
-  "Volume": "$41.232.643",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Venus decreased -15.60% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Helium",
@@ -2472,7 +1592,7 @@
   "MarketCap": "$327.603.864",
   "Volume": "$7.069.584",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Helium decreased 8.20% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Badger DAO",
@@ -2483,18 +1603,7 @@
   "MarketCap": "$326.863.122",
   "Volume": "$56.274.701",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Band Protocol",
-  "value": "$14,35",
-  "Percent1h": "-0.9%",
-  "Percent24h": "8.4%",
-  "Percent7d": "22.2%",
-  "MarketCap": "$324.683.922",
-  "Volume": "$303.343.569",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Badger DAO decreased 19.80% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Bitcoin Cash ABC",
@@ -2505,29 +1614,7 @@
   "MarketCap": "$322.170.858",
   "Volume": "$18.794.627",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Lido Staked Ether",
-  "value": "$1.707,21",
-  "Percent1h": "0.2%",
-  "Percent24h": "6.2%",
-  "Percent7d": "21.1%",
-  "MarketCap": "$314.921.138",
-  "Volume": "$157.869",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "SAND",
-  "value": "$0,466163",
-  "Percent1h": "6.8%",
-  "Percent24h": "23.4%",
-  "Percent7d": "111.8%",
-  "MarketCap": "$307.211.100",
-  "Volume": "$255.718.062",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Bitcoin Cash ABC decreased 17.70% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "cUSDT",
@@ -2538,51 +1625,7 @@
   "MarketCap": "$306.878.939",
   "Volume": "$16.817.699",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "COTI",
-  "value": "$0,449024",
-  "Percent1h": "-2.9%",
-  "Percent24h": "41.4%",
-  "Percent7d": "135.0%",
-  "MarketCap": "$300.512.856",
-  "Volume": "$524.790.166",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "LUKSO Token",
-  "value": "$20,09",
-  "Percent1h": "2.5%",
-  "Percent24h": "32.1%",
-  "Percent7d": "145.5%",
-  "MarketCap": "$300.203.393",
-  "Volume": "$27.652.235",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Fetch.ai",
-  "value": "$0,442589",
-  "Percent1h": "5.6%",
-  "Percent24h": "15.1%",
-  "Percent7d": "80.8%",
-  "MarketCap": "$298.886.204",
-  "Volume": "$27.012.920",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Serum",
-  "value": "$5,95",
-  "Percent1h": "-0.7%",
-  "Percent24h": "-0.4%",
-  "Percent7d": "20.1%",
-  "MarketCap": "$298.125.178",
-  "Volume": "$199.867.909",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "cUSDT decreased 0.20% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "TrueUSD",
@@ -2593,7 +1636,7 @@
   "MarketCap": "$289.911.403",
   "Volume": "$90.810.286",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "TrueUSD decreased 0.00% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Civic",
@@ -2604,18 +1647,7 @@
   "MarketCap": "$269.232.160",
   "Volume": "$35.682.306",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Ankr",
-  "value": "$0,03818246",
-  "Percent1h": "-1.2%",
-  "Percent24h": "8.6%",
-  "Percent7d": "46.4%",
-  "MarketCap": "$267.829.835",
-  "Volume": "$137.774.415",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Civic decreased 19.60% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Nervos Network",
@@ -2626,29 +1658,7 @@
   "MarketCap": "$258.640.887",
   "Volume": "$18.112.578",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Mirror Protocol",
-  "value": "$6,10",
-  "Percent1h": "0.3%",
-  "Percent24h": "-5.5%",
-  "Percent7d": "38.5%",
-  "MarketCap": "$255.914.889",
-  "Volume": "$22.143.987",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Ultra",
-  "value": "$0,462744",
-  "Percent1h": "1.8%",
-  "Percent24h": "21.9%",
-  "Percent7d": "91.5%",
-  "MarketCap": "$254.387.610",
-  "Volume": "$6.305.833",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Nervos Network decreased 5.90% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "GateToken",
@@ -2659,7 +1669,7 @@
   "MarketCap": "$252.718.052",
   "Volume": "$26.820.239",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "GateToken decreased 14.60% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "sUSD",
@@ -2670,51 +1680,7 @@
   "MarketCap": "$252.496.731",
   "Volume": "$19.425.107",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "WAX",
-  "value": "$0,161363",
-  "Percent1h": "5.1%",
-  "Percent24h": "28.9%",
-  "Percent7d": "120.1%",
-  "MarketCap": "$252.344.135",
-  "Volume": "$100.603.322",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Kava.io",
-  "value": "$4,28",
-  "Percent1h": "-2.1%",
-  "Percent24h": "1.6%",
-  "Percent7d": "27.1%",
-  "MarketCap": "$251.860.483",
-  "Volume": "$59.525.625",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Telcoin",
-  "value": "$0,00458836",
-  "Percent1h": "0.3%",
-  "Percent24h": "25.2%",
-  "Percent7d": "39.7%",
-  "MarketCap": "$248.608.814",
-  "Volume": "$12.523.537",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Swipe",
-  "value": "$2,80",
-  "Percent1h": "-2.0%",
-  "Percent24h": "9.2%",
-  "Percent7d": "41.8%",
-  "MarketCap": "$245.444.930",
-  "Volume": "$376.625.890",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "sUSD decreased 0.70% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "NuCypher",
@@ -2725,7 +1691,7 @@
   "MarketCap": "$242.055.775",
   "Volume": "$29.368.401",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "NuCypher decreased 3.00% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Akash Network",
@@ -2736,7 +1702,7 @@
   "MarketCap": "$230.990.836",
   "Volume": "$3.276.465",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Akash Network decreased -0.10% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Trustswap",
@@ -2747,7 +1713,7 @@
   "MarketCap": "$229.011.997",
   "Volume": "$4.210.447",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Trustswap decreased -7.20% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Numeraire",
@@ -2758,18 +1724,7 @@
   "MarketCap": "$228.362.965",
   "Volume": "$18.420.708",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "SafePal",
-  "value": "$2,11",
-  "Percent1h": "-0.9%",
-  "Percent24h": "4.0%",
-  "Percent7d": "43.5%",
-  "MarketCap": "$228.252.688",
-  "Volume": "$53.136.947",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Numeraire decreased 4.50% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Gala",
@@ -2780,7 +1735,7 @@
   "MarketCap": "$227.238.813",
   "Volume": "$688.182",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Gala decreased 4.60% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Polkastarter",
@@ -2791,51 +1746,7 @@
   "MarketCap": "$227.089.205",
   "Volume": "$67.859.188",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "saffron.finance",
-  "value": "$2.798,27",
-  "Percent1h": "-0.7%",
-  "Percent24h": "11.4%",
-  "Percent7d": "46.2%",
-  "MarketCap": "$225.974.056",
-  "Volume": "$33.010.240",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Gnosis",
-  "value": "$146,66",
-  "Percent1h": "-0.1%",
-  "Percent24h": "6.0%",
-  "Percent7d": "20.7%",
-  "MarketCap": "$220.846.315",
-  "Volume": "$1.701.926",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Electroneum",
-  "value": "$0,01222339",
-  "Percent1h": "-1.1%",
-  "Percent24h": "3.7%",
-  "Percent7d": "25.6%",
-  "MarketCap": "$217.825.097",
-  "Volume": "$1.071.484",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Oasis Network",
-  "value": "$0,142110",
-  "Percent1h": "1.6%",
-  "Percent24h": "15.4%",
-  "Percent7d": "57.8%",
-  "MarketCap": "$215.428.759",
-  "Volume": "$33.966.648",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Polkastarter decreased -2.20% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Ark",
@@ -2846,84 +1757,7 @@
   "MarketCap": "$215.346.715",
   "Volume": "$9.717.486",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "MaidSafeCoin",
-  "value": "$0,465618",
-  "Percent1h": "-0.7%",
-  "Percent24h": "4.7%",
-  "Percent7d": "26.7%",
-  "MarketCap": "$211.907.918",
-  "Volume": "$878.533",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "cUNI",
-  "value": "$0,661609",
-  "Percent1h": "-2.7%",
-  "Percent24h": "-0.6%",
-  "Percent7d": "48.2%",
-  "MarketCap": "$211.182.229",
-  "Volume": "$39.713.806",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "RSK Infrastructure Framework",
-  "value": "$0,297400",
-  "Percent1h": "1.1%",
-  "Percent24h": "5.1%",
-  "Percent7d": "24.0%",
-  "MarketCap": "$208.242.457",
-  "Volume": "$3.908.927",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "FunFair",
-  "value": "$0,03453957",
-  "Percent1h": "-1.1%",
-  "Percent24h": "5.5%",
-  "Percent7d": "27.9%",
-  "MarketCap": "$208.146.643",
-  "Volume": "$6.410.269",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "sETH",
-  "value": "$1.801,37",
-  "Percent1h": "-0.1%",
-  "Percent24h": "5.8%",
-  "Percent7d": "27.0%",
-  "MarketCap": "$207.046.409",
-  "Volume": "$1.888.291",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "VeThor Token",
-  "value": "$0,00615985",
-  "Percent1h": "-0.5%",
-  "Percent24h": "4.5%",
-  "Percent7d": "47.3%",
-  "MarketCap": "$203.132.941",
-  "Volume": "$23.697.879",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "TomoChain",
-  "value": "$2,52",
-  "Percent1h": "-3.1%",
-  "Percent24h": "-9.3%",
-  "Percent7d": "49.3%",
-  "MarketCap": "$202.822.515",
-  "Volume": "$112.836.450",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Ark decreased 8.30% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "district0x",
@@ -2934,7 +1768,7 @@
   "MarketCap": "$202.614.166",
   "Volume": "$12.030.852",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "district0x decreased 14.00% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "MATH",
@@ -2945,29 +1779,7 @@
   "MarketCap": "$202.156.383",
   "Volume": "$1.036.826",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Sora",
-  "value": "$579,18",
-  "Percent1h": "0.0%",
-  "Percent24h": "3.4%",
-  "Percent7d": "56.4%",
-  "MarketCap": "$202.104.674",
-  "Volume": "$9.380.149",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "OriginTrail",
-  "value": "$0,577365",
-  "Percent1h": "1.7%",
-  "Percent24h": "6.8%",
-  "Percent7d": "35.8%",
-  "MarketCap": "$201.718.136",
-  "Volume": "$2.118.808",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "MATH decreased 9.40% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Secret",
@@ -2978,18 +1790,7 @@
   "MarketCap": "$201.579.794",
   "Volume": "$3.574.627",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Shabu Shabu",
-  "value": "$4,92",
-  "Percent1h": "-0.6%",
-  "Percent24h": "22.8%",
-  "Percent7d": "219.9%",
-  "MarketCap": "$201.006.283",
-  "Volume": "$2.311.006",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Secret decreased 3.20% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Bitcoin Diamond",
@@ -3000,7 +1801,7 @@
   "MarketCap": "$200.795.449",
   "Volume": "$2.809.447",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Bitcoin Diamond decreased 15.50% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "BTC Standard Hashrate Token",
@@ -3011,40 +1812,7 @@
   "MarketCap": "$200.553.282",
   "Volume": "$35.835.624",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Ardor",
-  "value": "$0,199954",
-  "Percent1h": "-0.8%",
-  "Percent24h": "-2.3%",
-  "Percent7d": "27.3%",
-  "MarketCap": "$199.234.379",
-  "Volume": "$17.444.931",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Axie Infinity",
-  "value": "$3,58",
-  "Percent1h": "2.5%",
-  "Percent24h": "33.5%",
-  "Percent7d": "156.7%",
-  "MarketCap": "$198.643.843",
-  "Volume": "$59.738.816",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "SKALE",
-  "value": "$0,342821",
-  "Percent1h": "-1.7%",
-  "Percent24h": "13.8%",
-  "Percent7d": "64.1%",
-  "MarketCap": "$194.340.508",
-  "Volume": "$37.779.541",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "BTC Standard Hashrate Token decreased 8.60% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "RedFOX Labs",
@@ -3055,7 +1823,7 @@
   "MarketCap": "$187.053.665",
   "Volume": "$2.501.945",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "RedFOX Labs decreased -1.50% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Trust Wallet Token",
@@ -3066,62 +1834,7 @@
   "MarketCap": "$185.724.185",
   "Volume": "$11.728.982",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Komodo",
-  "value": "$1,49",
-  "Percent1h": "-0.1%",
-  "Percent24h": "-0.5%",
-  "Percent7d": "22.0%",
-  "MarketCap": "$185.596.828",
-  "Volume": "$8.951.200",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Aragon",
-  "value": "$5,16",
-  "Percent1h": "-0.7%",
-  "Percent24h": "2.5%",
-  "Percent7d": "35.8%",
-  "MarketCap": "$181.542.701",
-  "Volume": "$30.533.598",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Augur",
-  "value": "$30,48",
-  "Percent1h": "-0.0%",
-  "Percent24h": "0.1%",
-  "Percent7d": "23.3%",
-  "MarketCap": "$180.474.790",
-  "Volume": "$25.963.503",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Rocket Pool",
-  "value": "$11,27",
-  "Percent1h": "0.8%",
-  "Percent24h": "-0.8%",
-  "Percent7d": "47.5%",
-  "MarketCap": "$180.384.329",
-  "Volume": "$4.118.860",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "UTRUST",
-  "value": "$0,399279",
-  "Percent1h": "-0.5%",
-  "Percent24h": "-1.6%",
-  "Percent7d": "26.4%",
-  "MarketCap": "$179.709.032",
-  "Volume": "$11.297.328",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Trust Wallet Token decreased 15.60% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "DerivaDAO",
@@ -3132,7 +1845,7 @@
   "MarketCap": "$178.991.101",
   "Volume": "$621.327",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "DerivaDAO decreased -5.90% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "SingularityNET",
@@ -3143,18 +1856,7 @@
   "MarketCap": "$176.559.263",
   "Volume": "$2.209.315",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "IoTeX",
-  "value": "$0,02849871",
-  "Percent1h": "0.1%",
-  "Percent24h": "5.5%",
-  "Percent7d": "37.8%",
-  "MarketCap": "$173.095.829",
-  "Volume": "$42.069.160",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "SingularityNET decreased -2.40% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Neutrino USD",
@@ -3165,7 +1867,7 @@
   "MarketCap": "$172.753.822",
   "Volume": "$41.243",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Neutrino USD decreased -1.10% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "Steem",
@@ -3176,51 +1878,7 @@
   "MarketCap": "$171.816.890",
   "Volume": "$11.700.614",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "WHALE",
-  "value": "$32,38",
-  "Percent1h": "-0.4%",
-  "Percent24h": "3.5%",
-  "Percent7d": "69.7%",
-  "MarketCap": "$169.115.416",
-  "Volume": "$1.721.717",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Keep Network",
-  "value": "$0,458070",
-  "Percent1h": "0.8%",
-  "Percent24h": "17.2%",
-  "Percent7d": "48.3%",
-  "MarketCap": "$168.912.409",
-  "Volume": "$3.967.813",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Hathor",
-  "value": "$0,930182",
-  "Percent1h": "1.5%",
-  "Percent24h": "5.9%",
-  "Percent7d": "43.3%",
-  "MarketCap": "$167.245.813",
-  "Volume": "$3.787.255",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Haven",
-  "value": "$11,28",
-  "Percent1h": "-1.1%",
-  "Percent24h": "10.7%",
-  "Percent7d": "64.9%",
-  "MarketCap": "$166.076.928",
-  "Volume": "$2.010.117",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "Steem decreased 8.90% in a '7d' period - DATE: 2021-03-08 19:48:23"
  },
  {
   "name": "WINk",
@@ -3231,39 +1889,6 @@
   "MarketCap": "$164.636.953",
   "Volume": "$10.286.781",
   "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Litentry",
-  "value": "$9,14",
-  "Percent1h": "-0.4%",
-  "Percent24h": "1.3%",
-  "Percent7d": "33.2%",
-  "MarketCap": "$164.584.507",
-  "Volume": "$81.465.695",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Unibright",
-  "value": "$1,17",
-  "Percent1h": "0.9%",
-  "Percent24h": "0.5%",
-  "Percent7d": "20.3%",
-  "MarketCap": "$163.442.882",
-  "Volume": "$3.895.008",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
- },
- {
-  "name": "Syntropy",
-  "value": "$0,441757",
-  "Percent1h": "-0.4%",
-  "Percent24h": "6.8%",
-  "Percent7d": "20.2%",
-  "MarketCap": "$161.540.750",
-  "Volume": "$2.986.143",
-  "Date": "2021-03-08 19:48:23",
-  "Description": ""
+  "Description": "WINk decreased 7.80% in a '7d' period - DATE: 2021-03-08 19:48:23"
  }
 ]
